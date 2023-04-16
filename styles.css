@@ -1,0 +1,14 @@
+div.css-fg4pbf       /*body of the app*/
+{
+   background-image : linear-gradient(to bottom right,turquoise,#7CFC00);
+}
+button.css-1x8cf1d     /* for button */
+{
+   background-color : #0CAFFF;
+}
+button.css-1x8cf1d:hover
+{
+   color : black;
+   border-color : blue;
+}
+

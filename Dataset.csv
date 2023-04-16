@@ -1,0 +1,1201 @@
+Logical Quotient Rating,Coding Skills Rating,Communication Skills Rating,Self-learning Capability?,Worked in teams ever?,Reading and Writing Skills,Memory Capability Score,Hard/Smart worker,Management or Technical,Certifications,Interested Subjects,Workshops,Type of Company want to settle in?,Interested Career Area,Suggested Job Role
+9,3,2,yes,yes,poor,medium,smart worker,Management,information security,parallel computing,web technologies,Finance,Business process analyst,Applications Developer
+4,6,3,no,yes,excellent,medium,smart worker,Management,hadoop,networks,ethical hacking,Sales and Marketing,Business process analyst,Applications Developer
+8,9,1,yes,no,poor,poor,smart worker,Management,shell programming,Computer Architecture,AWS,Sales and Marketing,security,Applications Developer
+1,3,5,no,yes,medium,medium,hard worker,Management,hadoop,Software Engineering,AWS,Product based,cloud computing,Applications Developer
+1,2,4,yes,yes,poor,poor,hard worker,Management,distro making,Computer Architecture,database security,Testing and Maintainance Services,system developer,Applications Developer
+2,5,7,yes,yes,excellent,medium,hard worker,Technical,r programming,networks,ethical hacking,Cloud Services,developer,Applications Developer
+6,3,1,no,no,excellent,excellent,hard worker,Management,information security,hacking,game development,Testing and Maintainance Services,testing,Applications Developer
+2,8,1,no,no,excellent,poor,smart worker,Technical,information security,data engineering,database security,Product based,cloud computing,Applications Developer
+3,1,4,yes,no,excellent,medium,smart worker,Technical,distro making,Computer Architecture,database security,Cloud Services,security,Applications Developer
+2,2,2,yes,no,excellent,excellent,smart worker,Management,information security,hacking,data science,Sales and Marketing,system developer,Applications Developer
+5,2,9,no,no,medium,poor,hard worker,Management,r programming,distributed computing,AWS,SAaS services,Business process analyst,Applications Developer
+3,6,7,yes,yes,excellent,poor,smart worker,Management,hadoop,distributed computing,game development,BPA,testing,Applications Developer
+1,8,5,yes,no,medium,poor,hard worker,Management,hadoop,networks,system designing,SAaS services,cloud computing,Applications Developer
+6,9,6,no,yes,excellent,poor,smart worker,Management,information security,Management,ethical hacking,product development,Business process analyst,Applications Developer
+9,3,4,no,no,poor,poor,hard worker,Technical,information security,IOT,database security,SAaS services,system developer,Applications Developer
+9,5,4,yes,no,medium,poor,hard worker,Technical,hadoop,parallel computing,AWS,Sales and Marketing,Business process analyst,Applications Developer
+8,4,1,no,yes,poor,poor,smart worker,Management,information security,programming,game development,Web Services,security,Applications Developer
+9,6,9,no,no,medium,poor,smart worker,Management,full stack,Management,system designing,BPA,system developer,Applications Developer
+6,5,7,no,no,medium,excellent,smart worker,Technical,full stack,distributed computing,testing,Product based,Business process analyst,Applications Developer
+2,4,2,yes,no,excellent,medium,smart worker,Management,shell programming,distributed computing,system designing,Finance,Business process analyst,Applications Developer
+9,8,9,no,no,poor,medium,smart worker,Technical,information security,programming,system designing,Finance,developer,Applications Developer
+4,9,6,no,no,medium,medium,smart worker,Technical,shell programming,parallel computing,game development,BPA,system developer,Applications Developer
+5,7,4,no,no,excellent,medium,hard worker,Technical,shell programming,distributed computing,system designing,Sales and Marketing,security,Applications Developer
+9,9,9,yes,yes,poor,medium,hard worker,Management,app development,Computer Architecture,data science,SAaS services,security,Applications Developer
+1,5,7,yes,yes,excellent,poor,smart worker,Management,hadoop,data engineering,game development,Web Services,Business process analyst,Applications Developer
+6,2,5,yes,no,excellent,excellent,hard worker,Management,r programming,hacking,game development,BPA,Business process analyst,Applications Developer
+7,6,4,no,yes,excellent,excellent,hard worker,Management,app development,networks,AWS,product development,security,Applications Developer
+5,5,5,yes,no,excellent,excellent,smart worker,Technical,hadoop,distributed computing,game development,BPA,cloud computing,Applications Developer
+8,3,2,yes,yes,excellent,excellent,hard worker,Technical,shell programming,distributed computing,web technologies,product development,testing,Applications Developer
+2,9,7,no,yes,poor,poor,smart worker,Management,machine learning,hacking,database security,Finance,cloud computing,Applications Developer
+4,4,4,no,yes,poor,poor,smart worker,Technical,information security,parallel computing,testing,Finance,Business process analyst,Applications Developer
+8,8,4,yes,no,medium,excellent,hard worker,Technical,r programming,data engineering,system designing,Cloud Services,security,Applications Developer
+1,5,3,yes,no,excellent,poor,smart worker,Technical,app development,Computer Architecture,web technologies,Finance,testing,Applications Developer
+6,2,1,yes,yes,poor,excellent,hard worker,Management,python,Management,AWS,BPA,system developer,Applications Developer
+7,2,7,yes,no,poor,medium,hard worker,Technical,hadoop,Management,AWS,SAaS services,security,Applications Developer
+8,1,4,yes,no,poor,medium,hard worker,Technical,shell programming,networks,web technologies,Sales and Marketing,security,Applications Developer
+7,2,7,yes,no,poor,poor,hard worker,Management,app development,distributed computing,ethical hacking,Web Services,Business process analyst,Applications Developer
+2,2,6,no,no,excellent,excellent,hard worker,Technical,shell programming,programming,data science,BPA,security,Applications Developer
+6,8,1,yes,no,excellent,poor,smart worker,Management,r programming,networks,data science,Product based,cloud computing,Applications Developer
+9,6,6,yes,yes,excellent,excellent,smart worker,Technical,machine learning,data engineering,AWS,Sales and Marketing,developer,Applications Developer
+4,5,4,no,no,excellent,poor,hard worker,Management,hadoop,Computer Architecture,system designing,BPA,cloud computing,Applications Developer
+4,9,5,yes,no,poor,medium,hard worker,Management,information security,parallel computing,AWS,Service Based,developer,Applications Developer
+1,1,6,no,yes,medium,medium,hard worker,Management,machine learning,hacking,ethical hacking,Finance,Business process analyst,Applications Developer
+2,8,5,no,no,poor,excellent,hard worker,Technical,machine learning,hacking,system designing,SAaS services,testing,Applications Developer
+6,1,3,yes,no,excellent,excellent,hard worker,Management,hadoop,programming,web technologies,Web Services,security,Applications Developer
+9,6,8,yes,yes,poor,poor,smart worker,Technical,r programming,data engineering,data science,Testing and Maintainance Services,developer,Applications Developer
+9,5,5,yes,no,excellent,poor,smart worker,Management,shell programming,networks,game development,product development,Business process analyst,Applications Developer
+5,1,8,yes,yes,excellent,medium,hard worker,Technical,hadoop,parallel computing,system designing,Service Based,system developer,Applications Developer
+5,7,1,yes,no,medium,poor,smart worker,Management,machine learning,networks,game development,Finance,system developer,Applications Developer
+3,7,1,no,no,medium,poor,hard worker,Technical,full stack,data engineering,system designing,product development,security,Applications Developer
+2,6,9,no,yes,poor,medium,hard worker,Technical,hadoop,IOT,AWS,Sales and Marketing,Business process analyst,Applications Developer
+3,1,2,no,yes,excellent,poor,smart worker,Management,r programming,parallel computing,data science,Product based,developer,Applications Developer
+6,4,3,yes,yes,excellent,medium,smart worker,Technical,r programming,IOT,AWS,Finance,developer,Applications Developer
+1,9,8,no,yes,poor,excellent,smart worker,Technical,hadoop,data engineering,system designing,Web Services,system developer,Applications Developer
+7,9,3,no,no,medium,medium,hard worker,Technical,full stack,hacking,testing,SAaS services,Business process analyst,Applications Developer
+4,4,8,no,yes,medium,poor,hard worker,Management,hadoop,distributed computing,testing,Cloud Services,cloud computing,Applications Developer
+4,4,1,yes,yes,excellent,medium,hard worker,Technical,hadoop,Computer Architecture,ethical hacking,Finance,cloud computing,Applications Developer
+9,6,4,no,no,medium,excellent,smart worker,Management,information security,programming,AWS,Cloud Services,security,Applications Developer
+8,1,7,no,no,excellent,poor,hard worker,Technical,r programming,programming,database security,Testing and Maintainance Services,testing,Applications Developer
+1,4,8,no,no,medium,excellent,smart worker,Management,full stack,distributed computing,ethical hacking,Service Based,testing,Applications Developer
+2,5,9,yes,yes,medium,excellent,smart worker,Management,machine learning,distributed computing,data science,Testing and Maintainance Services,cloud computing,Applications Developer
+6,3,1,yes,no,medium,excellent,smart worker,Technical,r programming,networks,testing,Sales and Marketing,Business process analyst,Applications Developer
+4,7,8,yes,yes,excellent,medium,smart worker,Management,information security,networks,web technologies,Testing and Maintainance Services,developer,Applications Developer
+1,7,4,yes,no,excellent,poor,hard worker,Management,r programming,Computer Architecture,data science,Service Based,testing,Applications Developer
+5,3,2,yes,yes,excellent,excellent,hard worker,Technical,python,IOT,web technologies,BPA,security,Applications Developer
+4,7,3,no,no,excellent,excellent,smart worker,Management,distro making,parallel computing,system designing,Testing and Maintainance Services,testing,Applications Developer
+9,3,6,no,yes,poor,excellent,smart worker,Management,app development,Computer Architecture,data science,Web Services,cloud computing,Applications Developer
+3,4,4,yes,no,excellent,poor,hard worker,Management,app development,programming,AWS,Service Based,Business process analyst,Applications Developer
+3,9,4,no,yes,poor,poor,hard worker,Management,r programming,Software Engineering,game development,product development,system developer,Applications Developer
+6,8,8,no,yes,medium,medium,hard worker,Technical,python,Management,data science,SAaS services,testing,Applications Developer
+2,2,5,yes,yes,excellent,medium,hard worker,Management,shell programming,Computer Architecture,data science,Finance,cloud computing,Applications Developer
+2,5,3,no,no,poor,poor,hard worker,Management,distro making,hacking,game development,Finance,system developer,Applications Developer
+8,4,3,yes,no,medium,excellent,smart worker,Technical,shell programming,distributed computing,system designing,Sales and Marketing,developer,Applications Developer
+5,2,3,no,yes,excellent,poor,smart worker,Technical,r programming,networks,web technologies,Testing and Maintainance Services,cloud computing,Applications Developer
+8,8,6,no,no,medium,excellent,hard worker,Management,python,Management,game development,BPA,Business process analyst,Applications Developer
+2,1,1,yes,yes,excellent,medium,smart worker,Technical,app development,data engineering,data science,Web Services,security,Applications Developer
+5,5,2,no,yes,poor,medium,smart worker,Management,shell programming,Computer Architecture,system designing,Testing and Maintainance Services,system developer,Applications Developer
+9,4,5,yes,no,poor,poor,smart worker,Technical,shell programming,hacking,testing,Testing and Maintainance Services,cloud computing,Applications Developer
+5,7,4,no,yes,excellent,medium,smart worker,Technical,r programming,networks,database security,Web Services,security,Applications Developer
+4,8,7,yes,yes,medium,medium,hard worker,Management,hadoop,Management,web technologies,Sales and Marketing,cloud computing,Applications Developer
+9,7,9,yes,yes,excellent,poor,hard worker,Technical,information security,Computer Architecture,game development,Cloud Services,cloud computing,Applications Developer
+5,1,7,yes,yes,excellent,medium,hard worker,Technical,shell programming,hacking,system designing,Finance,developer,Applications Developer
+1,1,1,yes,no,poor,medium,smart worker,Technical,app development,Computer Architecture,AWS,Service Based,developer,Applications Developer
+7,6,5,yes,no,medium,poor,smart worker,Management,machine learning,networks,testing,Sales and Marketing,testing,Applications Developer
+3,6,7,no,yes,poor,poor,hard worker,Management,machine learning,Software Engineering,data science,Service Based,system developer,Applications Developer
+6,5,2,no,no,poor,excellent,smart worker,Technical,app development,Software Engineering,game development,Product based,security,Applications Developer
+1,5,7,yes,yes,medium,medium,hard worker,Management,shell programming,data engineering,testing,Service Based,Business process analyst,Applications Developer
+4,1,9,yes,yes,medium,excellent,hard worker,Management,machine learning,Computer Architecture,AWS,Sales and Marketing,testing,Applications Developer
+1,3,2,yes,no,medium,poor,hard worker,Technical,python,data engineering,system designing,BPA,security,Applications Developer
+5,5,7,no,yes,poor,medium,smart worker,Technical,machine learning,parallel computing,game development,Cloud Services,developer,Applications Developer
+9,9,2,yes,no,poor,excellent,hard worker,Management,hadoop,Software Engineering,web technologies,Product based,testing,Applications Developer
+2,9,7,yes,no,poor,medium,hard worker,Management,python,distributed computing,ethical hacking,Cloud Services,system developer,Applications Developer
+4,5,8,no,yes,poor,medium,smart worker,Technical,shell programming,programming,ethical hacking,Testing and Maintainance Services,system developer,Applications Developer
+1,5,9,yes,yes,medium,poor,hard worker,Management,full stack,Software Engineering,system designing,Service Based,developer,Applications Developer
+1,7,9,yes,yes,medium,poor,smart worker,Management,r programming,programming,database security,Product based,system developer,Applications Developer
+7,2,5,no,no,medium,poor,smart worker,Management,full stack,networks,testing,product development,developer,Applications Developer
+8,9,7,yes,yes,poor,excellent,hard worker,Management,information security,IOT,AWS,Web Services,developer,Applications Developer
+1,3,5,no,yes,poor,poor,smart worker,Technical,full stack,Computer Architecture,game development,product development,system developer,Applications Developer
+5,7,9,yes,no,poor,excellent,smart worker,Technical,distro making,parallel computing,AWS,SAaS services,testing,Applications Developer
+9,3,8,no,yes,medium,excellent,hard worker,Management,app development,Computer Architecture,ethical hacking,product development,security,Applications Developer
+1,3,4,no,yes,excellent,excellent,hard worker,Management,python,Management,database security,Finance,security,CRM Technical Developer
+5,8,4,no,no,medium,excellent,hard worker,Technical,distro making,Software Engineering,data science,BPA,system developer,CRM Technical Developer
+3,4,8,no,yes,excellent,poor,smart worker,Management,information security,parallel computing,ethical hacking,Service Based,security,CRM Technical Developer
+4,1,1,no,yes,poor,medium,hard worker,Management,hadoop,programming,testing,Product based,cloud computing,CRM Technical Developer
+1,2,9,no,no,medium,medium,hard worker,Management,distro making,Software Engineering,testing,Testing and Maintainance Services,system developer,CRM Technical Developer
+7,2,3,no,yes,poor,medium,hard worker,Management,r programming,Software Engineering,game development,Sales and Marketing,Business process analyst,CRM Technical Developer
+4,2,8,no,yes,medium,medium,hard worker,Management,r programming,programming,ethical hacking,Product based,developer,CRM Technical Developer
+3,1,4,yes,yes,excellent,excellent,smart worker,Technical,hadoop,Management,AWS,Sales and Marketing,security,CRM Technical Developer
+8,7,5,yes,yes,excellent,excellent,hard worker,Management,information security,IOT,data science,BPA,cloud computing,CRM Technical Developer
+9,5,9,no,yes,medium,medium,smart worker,Management,distro making,Software Engineering,web technologies,Web Services,Business process analyst,CRM Technical Developer
+7,9,5,no,yes,excellent,excellent,hard worker,Technical,hadoop,networks,AWS,Product based,system developer,CRM Technical Developer
+1,9,9,no,no,poor,medium,hard worker,Management,shell programming,hacking,data science,SAaS services,system developer,CRM Technical Developer
+4,9,4,no,yes,excellent,medium,hard worker,Technical,machine learning,distributed computing,game development,Web Services,system developer,CRM Technical Developer
+7,6,7,no,no,excellent,poor,hard worker,Technical,information security,Management,system designing,SAaS services,cloud computing,CRM Technical Developer
+7,2,4,yes,no,excellent,excellent,smart worker,Technical,r programming,programming,game development,Cloud Services,Business process analyst,CRM Technical Developer
+7,6,4,no,yes,excellent,medium,hard worker,Management,hadoop,IOT,AWS,Service Based,cloud computing,CRM Technical Developer
+3,4,7,no,yes,poor,poor,smart worker,Technical,information security,data engineering,web technologies,Finance,security,CRM Technical Developer
+8,4,6,yes,no,medium,poor,smart worker,Technical,r programming,Software Engineering,database security,Sales and Marketing,Business process analyst,CRM Technical Developer
+5,5,4,no,yes,medium,medium,hard worker,Technical,app development,Management,game development,product development,security,CRM Technical Developer
+5,8,9,no,yes,poor,excellent,smart worker,Technical,distro making,data engineering,game development,Service Based,system developer,CRM Technical Developer
+2,2,6,yes,yes,excellent,excellent,smart worker,Technical,machine learning,data engineering,database security,BPA,security,CRM Technical Developer
+5,4,7,yes,yes,medium,medium,smart worker,Management,r programming,parallel computing,database security,Service Based,testing,CRM Technical Developer
+8,9,5,yes,yes,poor,medium,smart worker,Management,information security,parallel computing,ethical hacking,Web Services,testing,CRM Technical Developer
+9,8,5,yes,yes,medium,poor,hard worker,Technical,machine learning,Software Engineering,testing,BPA,Business process analyst,CRM Technical Developer
+1,3,2,yes,yes,poor,medium,smart worker,Technical,r programming,Software Engineering,ethical hacking,SAaS services,developer,CRM Technical Developer
+3,7,1,no,no,poor,excellent,hard worker,Technical,information security,programming,web technologies,Sales and Marketing,Business process analyst,CRM Technical Developer
+7,7,2,no,yes,excellent,excellent,hard worker,Management,distro making,data engineering,data science,Finance,security,CRM Technical Developer
+8,4,3,yes,no,excellent,poor,smart worker,Technical,information security,Management,web technologies,BPA,Business process analyst,CRM Technical Developer
+6,4,7,yes,yes,poor,poor,hard worker,Management,full stack,Software Engineering,ethical hacking,Cloud Services,security,CRM Technical Developer
+9,1,5,yes,yes,excellent,excellent,smart worker,Technical,r programming,IOT,data science,Testing and Maintainance Services,testing,CRM Technical Developer
+5,5,1,no,no,medium,excellent,hard worker,Management,python,IOT,ethical hacking,Service Based,cloud computing,CRM Technical Developer
+9,5,4,yes,yes,poor,medium,smart worker,Technical,app development,networks,testing,SAaS services,developer,CRM Technical Developer
+1,8,8,no,no,poor,excellent,smart worker,Technical,shell programming,data engineering,data science,Web Services,Business process analyst,CRM Technical Developer
+5,5,5,yes,yes,medium,poor,smart worker,Technical,information security,Computer Architecture,AWS,product development,security,CRM Technical Developer
+8,4,8,yes,yes,poor,excellent,smart worker,Management,distro making,data engineering,web technologies,Sales and Marketing,testing,CRM Technical Developer
+8,2,6,yes,yes,medium,medium,hard worker,Technical,python,Computer Architecture,testing,Product based,security,CRM Technical Developer
+7,3,2,no,no,poor,excellent,smart worker,Technical,full stack,Computer Architecture,ethical hacking,Web Services,developer,CRM Technical Developer
+1,1,3,no,no,medium,medium,smart worker,Technical,distro making,data engineering,ethical hacking,Product based,cloud computing,CRM Technical Developer
+2,1,6,no,yes,poor,poor,hard worker,Management,python,programming,ethical hacking,Product based,Business process analyst,CRM Technical Developer
+5,1,5,no,no,poor,excellent,smart worker,Technical,information security,Software Engineering,AWS,SAaS services,Business process analyst,CRM Technical Developer
+6,5,8,no,yes,excellent,medium,smart worker,Technical,shell programming,programming,database security,product development,cloud computing,CRM Technical Developer
+1,1,1,no,yes,medium,poor,hard worker,Management,shell programming,Computer Architecture,AWS,SAaS services,system developer,CRM Technical Developer
+9,8,1,no,no,excellent,medium,hard worker,Management,shell programming,distributed computing,web technologies,Service Based,system developer,CRM Technical Developer
+6,1,3,yes,no,medium,excellent,smart worker,Management,r programming,distributed computing,data science,Finance,cloud computing,CRM Technical Developer
+1,8,9,yes,yes,excellent,medium,smart worker,Technical,r programming,distributed computing,web technologies,Testing and Maintainance Services,developer,CRM Technical Developer
+7,8,1,no,no,excellent,medium,hard worker,Technical,hadoop,hacking,game development,product development,system developer,CRM Technical Developer
+2,6,5,yes,no,poor,medium,hard worker,Technical,shell programming,networks,web technologies,Testing and Maintainance Services,Business process analyst,CRM Technical Developer
+8,5,2,yes,yes,excellent,poor,hard worker,Technical,r programming,Management,AWS,Finance,developer,CRM Technical Developer
+4,8,6,no,yes,excellent,excellent,smart worker,Management,python,programming,AWS,Web Services,testing,CRM Technical Developer
+3,8,3,yes,no,poor,medium,hard worker,Management,python,Computer Architecture,web technologies,Product based,security,CRM Technical Developer
+8,7,1,no,yes,medium,medium,smart worker,Technical,shell programming,networks,game development,Service Based,system developer,CRM Technical Developer
+4,1,2,yes,no,medium,excellent,smart worker,Management,machine learning,Management,system designing,SAaS services,Business process analyst,CRM Technical Developer
+1,3,4,no,yes,medium,medium,hard worker,Management,full stack,distributed computing,web technologies,Service Based,security,CRM Technical Developer
+4,1,5,no,no,excellent,medium,hard worker,Management,r programming,networks,data science,product development,developer,CRM Technical Developer
+9,1,9,yes,yes,medium,excellent,hard worker,Management,hadoop,programming,testing,Cloud Services,system developer,CRM Technical Developer
+4,1,7,yes,yes,poor,poor,smart worker,Management,python,networks,database security,product development,cloud computing,CRM Technical Developer
+8,2,4,yes,yes,medium,medium,hard worker,Technical,machine learning,parallel computing,testing,SAaS services,security,CRM Technical Developer
+7,1,8,no,no,medium,poor,hard worker,Technical,information security,hacking,AWS,Cloud Services,testing,CRM Technical Developer
+8,8,3,no,yes,medium,excellent,hard worker,Management,distro making,Software Engineering,web technologies,BPA,cloud computing,CRM Technical Developer
+4,1,3,yes,yes,excellent,medium,smart worker,Management,machine learning,parallel computing,system designing,product development,system developer,CRM Technical Developer
+7,5,8,no,no,medium,excellent,hard worker,Technical,information security,parallel computing,data science,Product based,system developer,CRM Technical Developer
+8,8,8,no,no,excellent,poor,smart worker,Management,shell programming,IOT,data science,Testing and Maintainance Services,Business process analyst,CRM Technical Developer
+3,6,1,yes,no,excellent,poor,hard worker,Technical,app development,programming,web technologies,BPA,developer,CRM Technical Developer
+5,8,3,yes,yes,medium,excellent,smart worker,Management,r programming,Management,data science,Cloud Services,testing,CRM Technical Developer
+6,6,4,no,yes,medium,medium,hard worker,Management,information security,networks,testing,Finance,testing,CRM Technical Developer
+9,3,7,no,yes,medium,poor,hard worker,Technical,shell programming,IOT,database security,Finance,developer,CRM Technical Developer
+5,6,5,yes,yes,medium,medium,hard worker,Technical,r programming,IOT,AWS,Service Based,cloud computing,CRM Technical Developer
+9,7,7,no,yes,excellent,poor,smart worker,Management,information security,Computer Architecture,ethical hacking,Finance,security,CRM Technical Developer
+6,9,6,no,yes,excellent,medium,smart worker,Management,machine learning,Software Engineering,testing,Cloud Services,security,CRM Technical Developer
+5,6,2,no,no,excellent,excellent,hard worker,Technical,machine learning,IOT,data science,BPA,developer,CRM Technical Developer
+2,7,9,yes,yes,poor,excellent,hard worker,Technical,hadoop,IOT,system designing,Service Based,developer,CRM Technical Developer
+7,9,4,yes,no,excellent,medium,smart worker,Technical,information security,IOT,ethical hacking,product development,Business process analyst,CRM Technical Developer
+2,7,3,no,no,medium,excellent,smart worker,Management,full stack,data engineering,data science,BPA,Business process analyst,CRM Technical Developer
+6,4,6,no,yes,excellent,excellent,hard worker,Technical,shell programming,IOT,AWS,Product based,developer,CRM Technical Developer
+9,7,8,yes,no,excellent,poor,smart worker,Management,app development,distributed computing,ethical hacking,Sales and Marketing,system developer,CRM Technical Developer
+9,5,3,yes,no,excellent,medium,hard worker,Management,app development,Software Engineering,data science,SAaS services,cloud computing,CRM Technical Developer
+3,4,9,no,yes,medium,excellent,hard worker,Technical,information security,programming,game development,Cloud Services,developer,CRM Technical Developer
+8,7,4,no,yes,poor,medium,hard worker,Technical,machine learning,Computer Architecture,testing,Service Based,system developer,CRM Technical Developer
+4,4,4,yes,yes,excellent,medium,hard worker,Technical,distro making,hacking,data science,Testing and Maintainance Services,testing,CRM Technical Developer
+3,2,1,yes,yes,medium,poor,hard worker,Management,shell programming,distributed computing,data science,SAaS services,cloud computing,CRM Technical Developer
+3,4,6,yes,yes,medium,poor,smart worker,Technical,full stack,hacking,AWS,Finance,developer,CRM Technical Developer
+5,4,3,no,no,poor,medium,hard worker,Technical,machine learning,data engineering,web technologies,Sales and Marketing,system developer,CRM Technical Developer
+3,6,6,no,no,medium,excellent,hard worker,Management,python,hacking,game development,product development,cloud computing,CRM Technical Developer
+7,1,2,yes,yes,excellent,excellent,hard worker,Management,information security,distributed computing,game development,Testing and Maintainance Services,system developer,CRM Technical Developer
+9,5,4,no,yes,excellent,poor,smart worker,Management,full stack,hacking,ethical hacking,Testing and Maintainance Services,developer,CRM Technical Developer
+7,2,1,yes,yes,excellent,poor,smart worker,Technical,machine learning,data engineering,ethical hacking,BPA,system developer,CRM Technical Developer
+1,9,6,yes,yes,poor,excellent,hard worker,Management,python,IOT,ethical hacking,Web Services,Business process analyst,CRM Technical Developer
+2,9,7,no,yes,medium,medium,hard worker,Management,app development,distributed computing,data science,Service Based,developer,CRM Technical Developer
+6,8,9,yes,yes,poor,medium,smart worker,Technical,python,Management,game development,Cloud Services,testing,CRM Technical Developer
+5,6,1,no,yes,excellent,excellent,smart worker,Technical,python,IOT,system designing,Finance,security,CRM Technical Developer
+3,8,1,no,no,poor,poor,hard worker,Technical,information security,Software Engineering,web technologies,BPA,developer,CRM Technical Developer
+7,6,7,yes,yes,poor,poor,smart worker,Technical,python,Software Engineering,ethical hacking,Product based,cloud computing,CRM Technical Developer
+9,7,3,yes,yes,poor,poor,hard worker,Technical,hadoop,programming,system designing,Service Based,cloud computing,CRM Technical Developer
+3,4,8,yes,yes,poor,poor,hard worker,Technical,distro making,Computer Architecture,web technologies,product development,system developer,CRM Technical Developer
+7,4,6,yes,no,poor,poor,hard worker,Management,machine learning,programming,web technologies,product development,developer,CRM Technical Developer
+6,8,7,no,yes,excellent,medium,smart worker,Technical,machine learning,hacking,game development,Sales and Marketing,cloud computing,CRM Technical Developer
+9,7,1,yes,yes,poor,excellent,hard worker,Technical,hadoop,programming,data science,BPA,security,CRM Technical Developer
+3,6,6,no,yes,medium,poor,hard worker,Management,full stack,hacking,game development,SAaS services,Business process analyst,CRM Technical Developer
+6,6,1,yes,no,excellent,poor,hard worker,Technical,r programming,IOT,data science,BPA,system developer,CRM Technical Developer
+2,7,5,no,yes,medium,excellent,hard worker,Technical,r programming,networks,AWS,Testing and Maintainance Services,Business process analyst,CRM Technical Developer
+5,1,5,no,no,excellent,medium,smart worker,Technical,information security,Computer Architecture,testing,Finance,cloud computing,Database Developer
+6,5,5,yes,no,medium,poor,hard worker,Technical,app development,parallel computing,AWS,BPA,cloud computing,Database Developer
+7,4,1,no,no,medium,poor,smart worker,Technical,distro making,programming,game development,Web Services,developer,Database Developer
+5,4,6,yes,yes,excellent,medium,hard worker,Technical,information security,Computer Architecture,ethical hacking,product development,Business process analyst,Database Developer
+5,8,6,no,no,poor,poor,hard worker,Management,machine learning,Computer Architecture,data science,Cloud Services,cloud computing,Database Developer
+6,7,1,yes,no,excellent,excellent,hard worker,Management,shell programming,IOT,system designing,BPA,cloud computing,Database Developer
+5,9,4,no,yes,excellent,excellent,hard worker,Management,full stack,programming,web technologies,Finance,developer,Database Developer
+6,1,2,yes,no,excellent,excellent,smart worker,Technical,distro making,Computer Architecture,database security,Web Services,testing,Database Developer
+8,5,7,no,yes,medium,excellent,hard worker,Management,information security,hacking,system designing,Web Services,testing,Database Developer
+2,3,7,no,yes,poor,poor,hard worker,Technical,app development,Computer Architecture,testing,SAaS services,security,Database Developer
+2,8,8,no,yes,poor,medium,smart worker,Management,information security,parallel computing,AWS,Sales and Marketing,testing,Database Developer
+3,5,5,yes,yes,excellent,poor,smart worker,Management,python,distributed computing,data science,Service Based,system developer,Database Developer
+6,7,3,yes,no,excellent,medium,smart worker,Management,python,Management,system designing,Finance,Business process analyst,Database Developer
+7,4,3,yes,no,poor,poor,hard worker,Management,full stack,data engineering,AWS,Product based,testing,Database Developer
+6,6,1,yes,no,medium,excellent,smart worker,Technical,machine learning,data engineering,database security,BPA,system developer,Database Developer
+6,6,4,no,no,medium,poor,smart worker,Technical,full stack,Software Engineering,AWS,Service Based,Business process analyst,Database Developer
+2,7,8,yes,yes,medium,medium,smart worker,Management,app development,data engineering,database security,Finance,Business process analyst,Database Developer
+6,8,3,no,yes,excellent,poor,hard worker,Management,information security,data engineering,ethical hacking,Service Based,Business process analyst,Database Developer
+2,6,7,yes,yes,poor,medium,hard worker,Management,information security,data engineering,game development,product development,Business process analyst,Database Developer
+7,4,4,no,yes,poor,poor,hard worker,Technical,r programming,IOT,game development,Cloud Services,cloud computing,Database Developer
+2,2,3,no,yes,poor,poor,hard worker,Technical,r programming,Software Engineering,ethical hacking,SAaS services,testing,Database Developer
+6,5,7,no,no,excellent,excellent,hard worker,Management,distro making,parallel computing,testing,BPA,developer,Database Developer
+9,7,2,no,yes,medium,excellent,smart worker,Technical,shell programming,Computer Architecture,database security,product development,security,Database Developer
+7,3,4,no,yes,medium,poor,hard worker,Management,python,IOT,data science,product development,cloud computing,Database Developer
+9,8,1,yes,no,poor,excellent,smart worker,Technical,app development,Software Engineering,AWS,Testing and Maintainance Services,system developer,Database Developer
+6,7,8,yes,no,poor,medium,smart worker,Technical,machine learning,Software Engineering,ethical hacking,SAaS services,security,Database Developer
+9,9,4,no,no,excellent,medium,hard worker,Management,distro making,Management,game development,Testing and Maintainance Services,cloud computing,Database Developer
+5,7,8,yes,no,excellent,poor,smart worker,Technical,shell programming,parallel computing,AWS,Testing and Maintainance Services,developer,Database Developer
+9,8,9,yes,no,excellent,medium,hard worker,Management,hadoop,Management,database security,Product based,testing,Database Developer
+1,2,4,no,no,poor,poor,smart worker,Technical,information security,Computer Architecture,game development,Service Based,security,Database Developer
+8,6,6,yes,no,medium,poor,hard worker,Technical,app development,programming,data science,Product based,security,Database Developer
+4,6,2,no,no,poor,medium,smart worker,Management,app development,programming,game development,Service Based,developer,Database Developer
+6,2,1,yes,yes,excellent,medium,smart worker,Management,python,networks,system designing,Web Services,security,Database Developer
+5,7,2,yes,no,poor,excellent,smart worker,Management,python,hacking,web technologies,BPA,developer,Database Developer
+1,6,2,no,no,poor,excellent,hard worker,Management,r programming,IOT,data science,Sales and Marketing,Business process analyst,Database Developer
+9,3,9,no,no,excellent,medium,smart worker,Management,machine learning,programming,web technologies,SAaS services,developer,Database Developer
+2,4,2,yes,yes,medium,poor,smart worker,Technical,information security,IOT,ethical hacking,BPA,testing,Database Developer
+2,7,4,no,yes,excellent,excellent,hard worker,Management,r programming,networks,web technologies,Product based,cloud computing,Database Developer
+4,2,6,yes,no,poor,poor,hard worker,Management,distro making,parallel computing,AWS,Sales and Marketing,cloud computing,Database Developer
+8,9,5,no,no,excellent,poor,smart worker,Technical,python,Software Engineering,web technologies,Cloud Services,security,Database Developer
+7,5,3,yes,yes,medium,medium,smart worker,Technical,machine learning,networks,data science,Product based,developer,Database Developer
+8,2,9,no,no,medium,excellent,smart worker,Technical,shell programming,parallel computing,database security,Cloud Services,system developer,Database Developer
+5,3,8,no,no,poor,medium,hard worker,Technical,hadoop,Management,web technologies,Product based,testing,Database Developer
+5,6,1,yes,yes,excellent,excellent,smart worker,Technical,information security,programming,ethical hacking,SAaS services,system developer,Database Developer
+3,1,5,yes,no,medium,medium,hard worker,Management,information security,data engineering,database security,BPA,system developer,Database Developer
+5,1,7,yes,no,excellent,medium,smart worker,Management,machine learning,IOT,system designing,product development,system developer,Database Developer
+1,6,3,no,no,medium,medium,hard worker,Management,app development,programming,testing,Web Services,cloud computing,Database Developer
+9,2,9,no,yes,medium,medium,hard worker,Technical,r programming,IOT,game development,Product based,security,Database Developer
+2,3,4,no,no,medium,medium,hard worker,Management,shell programming,Management,data science,Product based,developer,Database Developer
+2,2,4,yes,yes,medium,excellent,hard worker,Technical,python,Software Engineering,AWS,Testing and Maintainance Services,Business process analyst,Database Developer
+4,3,6,yes,yes,medium,poor,smart worker,Technical,r programming,Computer Architecture,testing,BPA,system developer,Database Developer
+8,2,8,yes,yes,medium,poor,hard worker,Management,distro making,data engineering,system designing,Testing and Maintainance Services,security,Database Developer
+9,4,5,yes,no,excellent,medium,smart worker,Management,python,Computer Architecture,web technologies,Cloud Services,system developer,Database Developer
+1,8,2,yes,no,excellent,excellent,hard worker,Management,hadoop,parallel computing,web technologies,product development,Business process analyst,Database Developer
+7,3,3,no,no,excellent,excellent,smart worker,Technical,distro making,Computer Architecture,system designing,SAaS services,testing,Database Developer
+6,6,2,no,yes,excellent,poor,smart worker,Technical,distro making,IOT,system designing,Product based,testing,Database Developer
+8,4,7,yes,no,excellent,medium,smart worker,Management,shell programming,hacking,database security,Cloud Services,security,Database Developer
+9,6,8,no,no,excellent,excellent,smart worker,Management,distro making,Computer Architecture,game development,Sales and Marketing,Business process analyst,Database Developer
+2,4,5,yes,no,poor,medium,smart worker,Management,python,programming,web technologies,Testing and Maintainance Services,Business process analyst,Database Developer
+9,3,3,yes,no,poor,poor,smart worker,Technical,machine learning,Management,testing,Sales and Marketing,Business process analyst,Database Developer
+7,5,7,no,no,medium,poor,hard worker,Technical,distro making,IOT,game development,Testing and Maintainance Services,cloud computing,Database Developer
+4,9,7,no,no,poor,excellent,hard worker,Management,information security,data engineering,AWS,Web Services,cloud computing,Database Developer
+2,7,6,yes,no,poor,medium,hard worker,Management,distro making,Computer Architecture,database security,Testing and Maintainance Services,developer,Database Developer
+8,9,4,no,no,poor,excellent,hard worker,Management,machine learning,distributed computing,AWS,SAaS services,testing,Database Developer
+6,8,3,no,yes,excellent,excellent,smart worker,Management,distro making,distributed computing,data science,BPA,developer,Database Developer
+8,7,9,yes,yes,poor,medium,hard worker,Technical,hadoop,networks,database security,SAaS services,testing,Database Developer
+6,4,8,no,no,excellent,excellent,smart worker,Management,hadoop,programming,database security,Service Based,security,Database Developer
+1,2,1,no,yes,medium,excellent,hard worker,Management,distro making,Computer Architecture,ethical hacking,Cloud Services,system developer,Database Developer
+4,8,7,no,no,medium,poor,smart worker,Management,r programming,programming,AWS,Cloud Services,developer,Database Developer
+7,2,1,yes,yes,poor,excellent,hard worker,Technical,python,hacking,game development,Service Based,system developer,Database Developer
+5,8,8,yes,yes,poor,excellent,smart worker,Management,python,data engineering,data science,Service Based,developer,Database Developer
+6,6,8,yes,yes,poor,poor,smart worker,Technical,machine learning,data engineering,web technologies,Service Based,system developer,Database Developer
+9,2,4,yes,yes,poor,poor,smart worker,Management,full stack,distributed computing,game development,Finance,testing,Database Developer
+4,5,5,no,yes,medium,medium,smart worker,Management,r programming,hacking,data science,Finance,testing,Database Developer
+3,8,6,no,no,medium,medium,hard worker,Technical,machine learning,networks,data science,Cloud Services,security,Database Developer
+9,9,8,yes,no,excellent,excellent,hard worker,Technical,python,hacking,testing,Product based,cloud computing,Database Developer
+3,7,4,no,no,excellent,medium,smart worker,Management,information security,parallel computing,web technologies,product development,system developer,Database Developer
+9,3,4,yes,yes,medium,excellent,hard worker,Management,app development,IOT,AWS,Finance,system developer,Database Developer
+9,4,4,no,yes,excellent,poor,smart worker,Management,r programming,distributed computing,ethical hacking,Finance,system developer,Database Developer
+5,7,4,no,yes,poor,medium,hard worker,Management,shell programming,data engineering,game development,Finance,security,Database Developer
+2,9,9,yes,yes,medium,medium,hard worker,Technical,app development,networks,database security,Service Based,cloud computing,Database Developer
+3,2,2,no,yes,poor,excellent,hard worker,Management,full stack,Software Engineering,AWS,product development,developer,Database Developer
+9,4,1,yes,no,medium,medium,hard worker,Technical,information security,distributed computing,testing,Service Based,Business process analyst,Database Developer
+4,5,9,no,yes,poor,poor,smart worker,Management,hadoop,hacking,data science,Web Services,Business process analyst,Database Developer
+8,5,5,yes,yes,poor,poor,hard worker,Technical,distro making,distributed computing,testing,Cloud Services,Business process analyst,Database Developer
+2,6,7,yes,no,poor,medium,hard worker,Management,distro making,networks,system designing,SAaS services,Business process analyst,Database Developer
+3,4,1,yes,yes,excellent,medium,hard worker,Management,app development,Management,game development,Testing and Maintainance Services,system developer,Database Developer
+6,5,5,no,yes,medium,excellent,smart worker,Management,full stack,Computer Architecture,AWS,Testing and Maintainance Services,Business process analyst,Database Developer
+2,3,5,yes,yes,excellent,excellent,smart worker,Management,app development,data engineering,system designing,Cloud Services,cloud computing,Database Developer
+5,7,5,yes,yes,medium,poor,hard worker,Management,app development,Computer Architecture,AWS,Testing and Maintainance Services,cloud computing,Database Developer
+4,3,6,yes,no,poor,excellent,hard worker,Management,r programming,parallel computing,web technologies,Web Services,developer,Database Developer
+7,2,8,no,yes,medium,poor,hard worker,Technical,shell programming,programming,system designing,Service Based,Business process analyst,Database Developer
+5,7,1,yes,yes,excellent,poor,smart worker,Technical,python,networks,data science,Testing and Maintainance Services,security,Database Developer
+8,6,5,no,yes,medium,poor,hard worker,Technical,distro making,distributed computing,AWS,Sales and Marketing,developer,Database Developer
+4,3,9,yes,yes,poor,poor,smart worker,Management,r programming,IOT,game development,Testing and Maintainance Services,security,Database Developer
+9,2,8,no,yes,poor,poor,hard worker,Management,python,Management,ethical hacking,Web Services,testing,Database Developer
+6,1,8,yes,yes,poor,poor,hard worker,Technical,shell programming,Management,game development,Service Based,system developer,Database Developer
+5,5,7,yes,no,poor,excellent,hard worker,Management,python,hacking,database security,Sales and Marketing,cloud computing,Database Developer
+4,4,4,no,yes,poor,excellent,hard worker,Technical,full stack,hacking,testing,Product based,system developer,Database Developer
+6,1,5,yes,yes,medium,medium,hard worker,Management,distro making,Computer Architecture,system designing,Testing and Maintainance Services,Business process analyst,Database Developer
+6,3,4,yes,no,excellent,poor,hard worker,Technical,machine learning,Management,game development,Web Services,testing,Mobile Applications Developer
+6,4,4,no,no,medium,poor,smart worker,Technical,hadoop,hacking,system designing,product development,testing,Mobile Applications Developer
+4,7,7,yes,no,excellent,medium,smart worker,Management,full stack,distributed computing,ethical hacking,product development,Business process analyst,Mobile Applications Developer
+6,6,9,yes,no,medium,excellent,smart worker,Technical,machine learning,Software Engineering,game development,Cloud Services,developer,Mobile Applications Developer
+6,6,8,yes,yes,medium,medium,smart worker,Management,machine learning,IOT,web technologies,product development,security,Mobile Applications Developer
+5,9,9,yes,no,medium,poor,smart worker,Management,app development,programming,ethical hacking,Testing and Maintainance Services,system developer,Mobile Applications Developer
+3,8,6,yes,yes,medium,excellent,smart worker,Management,app development,parallel computing,game development,product development,security,Mobile Applications Developer
+7,9,3,yes,yes,poor,excellent,smart worker,Management,r programming,IOT,testing,Finance,developer,Mobile Applications Developer
+9,4,1,no,yes,medium,excellent,smart worker,Technical,shell programming,data engineering,testing,Service Based,testing,Mobile Applications Developer
+9,1,4,yes,yes,medium,medium,hard worker,Technical,r programming,programming,system designing,Finance,system developer,Mobile Applications Developer
+2,5,9,yes,no,medium,medium,smart worker,Technical,python,IOT,AWS,BPA,system developer,Mobile Applications Developer
+9,3,8,yes,no,poor,excellent,smart worker,Technical,full stack,Management,database security,Finance,Business process analyst,Mobile Applications Developer
+6,1,6,no,no,medium,medium,hard worker,Management,distro making,hacking,AWS,Finance,system developer,Mobile Applications Developer
+1,9,6,yes,yes,medium,excellent,hard worker,Management,machine learning,Computer Architecture,ethical hacking,Sales and Marketing,testing,Mobile Applications Developer
+6,8,1,no,yes,poor,medium,hard worker,Management,machine learning,parallel computing,system designing,product development,system developer,Mobile Applications Developer
+4,9,5,no,yes,medium,excellent,smart worker,Technical,distro making,networks,AWS,Product based,testing,Mobile Applications Developer
+9,9,7,no,no,poor,medium,smart worker,Management,r programming,programming,database security,Testing and Maintainance Services,security,Mobile Applications Developer
+1,9,1,yes,no,excellent,poor,hard worker,Technical,information security,networks,data science,Cloud Services,system developer,Mobile Applications Developer
+1,4,1,yes,no,poor,medium,hard worker,Technical,shell programming,programming,AWS,Sales and Marketing,cloud computing,Mobile Applications Developer
+9,9,7,no,yes,excellent,poor,smart worker,Management,hadoop,hacking,testing,Finance,Business process analyst,Mobile Applications Developer
+9,1,4,no,no,poor,medium,smart worker,Technical,distro making,Management,testing,Cloud Services,security,Mobile Applications Developer
+9,1,5,no,no,excellent,excellent,hard worker,Technical,distro making,Management,AWS,BPA,system developer,Mobile Applications Developer
+9,4,2,no,yes,poor,poor,hard worker,Management,shell programming,Computer Architecture,data science,SAaS services,system developer,Mobile Applications Developer
+1,1,6,no,no,excellent,excellent,smart worker,Management,r programming,hacking,web technologies,BPA,system developer,Mobile Applications Developer
+5,1,7,yes,no,excellent,poor,hard worker,Management,python,Management,ethical hacking,product development,Business process analyst,Mobile Applications Developer
+4,3,5,yes,yes,poor,poor,smart worker,Management,machine learning,networks,testing,Web Services,cloud computing,Mobile Applications Developer
+2,1,8,no,yes,medium,medium,smart worker,Management,shell programming,Computer Architecture,ethical hacking,Service Based,testing,Mobile Applications Developer
+6,1,1,yes,yes,medium,medium,smart worker,Management,shell programming,networks,game development,Service Based,cloud computing,Mobile Applications Developer
+9,3,2,no,no,medium,excellent,smart worker,Technical,python,parallel computing,ethical hacking,product development,security,Mobile Applications Developer
+4,1,9,yes,yes,poor,medium,smart worker,Technical,machine learning,parallel computing,data science,Web Services,developer,Mobile Applications Developer
+6,7,2,no,yes,excellent,poor,hard worker,Management,information security,IOT,AWS,Product based,Business process analyst,Mobile Applications Developer
+8,1,1,no,no,medium,medium,smart worker,Management,r programming,Computer Architecture,AWS,product development,testing,Mobile Applications Developer
+8,8,4,no,no,excellent,excellent,hard worker,Technical,python,IOT,web technologies,Sales and Marketing,Business process analyst,Mobile Applications Developer
+7,7,2,yes,yes,medium,poor,hard worker,Management,shell programming,IOT,AWS,Testing and Maintainance Services,developer,Mobile Applications Developer
+8,1,1,yes,no,poor,excellent,smart worker,Technical,shell programming,IOT,AWS,Web Services,testing,Mobile Applications Developer
+6,2,9,no,yes,poor,medium,smart worker,Management,app development,Software Engineering,AWS,BPA,testing,Mobile Applications Developer
+8,6,6,no,yes,excellent,poor,hard worker,Management,information security,Management,web technologies,Sales and Marketing,security,Mobile Applications Developer
+4,4,8,no,no,excellent,excellent,smart worker,Management,r programming,hacking,web technologies,Product based,testing,Mobile Applications Developer
+1,4,9,yes,no,medium,poor,smart worker,Technical,hadoop,IOT,system designing,Product based,system developer,Mobile Applications Developer
+1,3,6,yes,yes,excellent,medium,smart worker,Management,information security,data engineering,web technologies,Product based,cloud computing,Mobile Applications Developer
+9,3,9,no,yes,poor,medium,hard worker,Management,python,distributed computing,data science,Cloud Services,security,Mobile Applications Developer
+9,3,8,no,no,excellent,poor,smart worker,Management,machine learning,Software Engineering,data science,SAaS services,Business process analyst,Mobile Applications Developer
+4,1,6,no,no,poor,medium,hard worker,Management,distro making,Software Engineering,game development,Finance,Business process analyst,Mobile Applications Developer
+5,8,5,no,no,poor,medium,hard worker,Technical,hadoop,distributed computing,system designing,Service Based,system developer,Mobile Applications Developer
+9,4,9,yes,yes,excellent,medium,hard worker,Technical,python,programming,system designing,Finance,security,Mobile Applications Developer
+6,5,1,no,yes,medium,medium,smart worker,Technical,machine learning,networks,AWS,Testing and Maintainance Services,cloud computing,Mobile Applications Developer
+5,1,9,no,yes,excellent,excellent,hard worker,Technical,distro making,IOT,web technologies,Finance,security,Mobile Applications Developer
+8,4,2,no,yes,poor,poor,smart worker,Management,r programming,hacking,system designing,Testing and Maintainance Services,developer,Mobile Applications Developer
+9,3,1,yes,yes,poor,poor,hard worker,Management,information security,data engineering,testing,Cloud Services,Business process analyst,Mobile Applications Developer
+9,7,9,yes,yes,medium,excellent,smart worker,Technical,python,Computer Architecture,database security,Finance,cloud computing,Mobile Applications Developer
+3,8,2,yes,no,medium,excellent,hard worker,Management,python,IOT,system designing,BPA,security,Mobile Applications Developer
+4,7,3,no,yes,excellent,medium,smart worker,Technical,python,distributed computing,database security,BPA,developer,Mobile Applications Developer
+3,3,3,no,yes,excellent,poor,hard worker,Management,python,programming,AWS,Testing and Maintainance Services,testing,Mobile Applications Developer
+2,2,1,yes,yes,medium,medium,hard worker,Management,hadoop,distributed computing,ethical hacking,BPA,system developer,Mobile Applications Developer
+2,2,8,no,no,excellent,excellent,smart worker,Technical,full stack,programming,testing,BPA,system developer,Mobile Applications Developer
+7,7,8,yes,yes,excellent,poor,hard worker,Management,machine learning,Software Engineering,system designing,Sales and Marketing,testing,Mobile Applications Developer
+8,3,4,no,yes,medium,poor,smart worker,Management,python,Software Engineering,data science,BPA,system developer,Mobile Applications Developer
+5,1,9,yes,no,excellent,medium,hard worker,Management,python,networks,AWS,Service Based,developer,Mobile Applications Developer
+7,3,9,yes,yes,excellent,poor,hard worker,Technical,machine learning,hacking,web technologies,product development,testing,Mobile Applications Developer
+8,5,1,yes,yes,medium,medium,smart worker,Technical,machine learning,hacking,system designing,product development,cloud computing,Mobile Applications Developer
+7,5,9,yes,yes,excellent,medium,smart worker,Management,hadoop,Computer Architecture,ethical hacking,product development,developer,Mobile Applications Developer
+5,1,4,no,no,poor,medium,hard worker,Technical,full stack,Software Engineering,ethical hacking,Service Based,developer,Mobile Applications Developer
+2,3,7,yes,yes,medium,medium,smart worker,Technical,full stack,programming,database security,Cloud Services,developer,Mobile Applications Developer
+4,7,6,no,no,poor,excellent,smart worker,Technical,app development,hacking,game development,product development,cloud computing,Mobile Applications Developer
+8,9,7,no,no,excellent,medium,smart worker,Technical,machine learning,parallel computing,AWS,product development,cloud computing,Mobile Applications Developer
+6,5,3,no,no,poor,poor,hard worker,Technical,information security,data engineering,web technologies,Product based,developer,Mobile Applications Developer
+9,3,2,no,yes,medium,medium,smart worker,Technical,shell programming,parallel computing,testing,Cloud Services,system developer,Mobile Applications Developer
+8,6,1,no,no,poor,medium,smart worker,Technical,distro making,programming,web technologies,Service Based,developer,Mobile Applications Developer
+5,6,1,no,no,excellent,medium,smart worker,Management,app development,IOT,web technologies,Web Services,testing,Mobile Applications Developer
+2,3,2,yes,no,excellent,poor,smart worker,Technical,information security,programming,AWS,SAaS services,security,Mobile Applications Developer
+2,1,4,yes,yes,poor,excellent,smart worker,Management,full stack,distributed computing,web technologies,Web Services,developer,Mobile Applications Developer
+3,6,9,yes,yes,excellent,medium,smart worker,Management,hadoop,IOT,system designing,BPA,security,Mobile Applications Developer
+4,6,3,no,yes,medium,medium,hard worker,Management,r programming,programming,system designing,Finance,security,Mobile Applications Developer
+3,8,3,yes,yes,poor,excellent,smart worker,Technical,shell programming,distributed computing,AWS,Product based,Business process analyst,Mobile Applications Developer
+6,3,4,yes,no,excellent,poor,smart worker,Management,machine learning,IOT,data science,Service Based,cloud computing,Mobile Applications Developer
+3,8,6,no,yes,poor,medium,smart worker,Technical,information security,Management,ethical hacking,BPA,testing,Mobile Applications Developer
+1,3,1,yes,yes,poor,poor,smart worker,Technical,distro making,programming,ethical hacking,BPA,Business process analyst,Mobile Applications Developer
+9,1,5,yes,no,medium,poor,hard worker,Management,app development,data engineering,database security,Service Based,security,Mobile Applications Developer
+7,9,3,yes,yes,excellent,medium,smart worker,Technical,r programming,programming,data science,Finance,cloud computing,Mobile Applications Developer
+9,2,1,no,no,excellent,excellent,hard worker,Management,python,networks,ethical hacking,product development,cloud computing,Mobile Applications Developer
+8,8,5,yes,no,excellent,excellent,smart worker,Technical,full stack,data engineering,game development,Sales and Marketing,security,Mobile Applications Developer
+3,7,3,no,yes,medium,excellent,hard worker,Management,python,distributed computing,system designing,product development,security,Mobile Applications Developer
+5,1,7,no,no,poor,poor,smart worker,Management,full stack,parallel computing,ethical hacking,Service Based,cloud computing,Mobile Applications Developer
+6,5,1,no,yes,excellent,medium,hard worker,Management,hadoop,Management,web technologies,product development,security,Mobile Applications Developer
+8,8,5,no,no,excellent,medium,hard worker,Management,hadoop,hacking,AWS,BPA,Business process analyst,Mobile Applications Developer
+8,1,1,no,yes,excellent,poor,smart worker,Management,machine learning,data engineering,testing,Service Based,Business process analyst,Mobile Applications Developer
+1,4,5,yes,yes,excellent,medium,hard worker,Management,python,IOT,testing,product development,cloud computing,Mobile Applications Developer
+3,7,2,no,no,poor,medium,smart worker,Technical,app development,networks,database security,Cloud Services,Business process analyst,Mobile Applications Developer
+5,3,5,no,no,poor,medium,smart worker,Technical,information security,programming,ethical hacking,Cloud Services,system developer,Mobile Applications Developer
+3,4,1,yes,no,poor,poor,smart worker,Management,app development,IOT,ethical hacking,Testing and Maintainance Services,system developer,Mobile Applications Developer
+1,4,4,no,yes,medium,medium,smart worker,Technical,hadoop,distributed computing,AWS,Service Based,Business process analyst,Mobile Applications Developer
+4,8,2,yes,no,excellent,excellent,hard worker,Technical,full stack,programming,ethical hacking,Product based,testing,Mobile Applications Developer
+4,8,1,no,yes,poor,medium,smart worker,Technical,shell programming,hacking,database security,Web Services,Business process analyst,Mobile Applications Developer
+6,7,4,yes,no,medium,medium,smart worker,Management,r programming,Computer Architecture,game development,SAaS services,testing,Mobile Applications Developer
+2,5,3,yes,no,medium,medium,hard worker,Technical,distro making,programming,AWS,Finance,developer,Mobile Applications Developer
+6,5,6,no,yes,excellent,medium,hard worker,Management,python,hacking,game development,Cloud Services,security,Mobile Applications Developer
+7,1,8,yes,no,excellent,poor,hard worker,Technical,python,distributed computing,game development,Cloud Services,developer,Mobile Applications Developer
+3,6,6,no,no,medium,medium,hard worker,Technical,shell programming,networks,web technologies,Cloud Services,cloud computing,Mobile Applications Developer
+3,3,7,no,no,medium,excellent,smart worker,Technical,information security,programming,testing,BPA,security,Mobile Applications Developer
+7,8,4,no,no,poor,excellent,hard worker,Technical,shell programming,hacking,ethical hacking,Product based,cloud computing,Mobile Applications Developer
+9,6,9,no,no,medium,medium,hard worker,Technical,hadoop,networks,web technologies,product development,cloud computing,Network Security Engineer
+5,6,3,yes,no,medium,excellent,hard worker,Management,hadoop,Management,ethical hacking,product development,testing,Network Security Engineer
+4,2,4,no,no,poor,poor,smart worker,Management,app development,IOT,AWS,Service Based,Business process analyst,Network Security Engineer
+3,6,1,no,yes,medium,excellent,smart worker,Management,shell programming,Management,system designing,Cloud Services,testing,Network Security Engineer
+5,5,7,yes,yes,medium,poor,hard worker,Management,r programming,Management,AWS,Product based,cloud computing,Network Security Engineer
+3,4,3,no,no,medium,poor,smart worker,Technical,full stack,distributed computing,database security,Testing and Maintainance Services,security,Network Security Engineer
+9,7,1,yes,no,medium,medium,smart worker,Technical,python,Management,web technologies,Web Services,testing,Network Security Engineer
+9,1,4,no,no,medium,medium,smart worker,Management,app development,Computer Architecture,system designing,Service Based,cloud computing,Network Security Engineer
+9,7,1,yes,no,medium,poor,hard worker,Management,distro making,data engineering,ethical hacking,Sales and Marketing,testing,Network Security Engineer
+3,4,6,no,yes,excellent,excellent,hard worker,Technical,information security,Software Engineering,AWS,Testing and Maintainance Services,developer,Network Security Engineer
+9,6,8,yes,no,poor,poor,hard worker,Management,app development,IOT,game development,Web Services,system developer,Network Security Engineer
+6,7,3,no,yes,excellent,excellent,hard worker,Management,information security,networks,testing,BPA,security,Network Security Engineer
+7,4,8,no,no,poor,excellent,hard worker,Management,distro making,Computer Architecture,testing,Finance,developer,Network Security Engineer
+3,4,5,no,yes,excellent,poor,smart worker,Management,hadoop,Management,ethical hacking,Sales and Marketing,system developer,Network Security Engineer
+2,6,9,yes,no,poor,medium,smart worker,Technical,full stack,programming,data science,Service Based,testing,Network Security Engineer
+3,9,7,yes,yes,medium,excellent,hard worker,Management,distro making,Software Engineering,data science,Cloud Services,testing,Network Security Engineer
+2,4,6,yes,no,excellent,excellent,hard worker,Technical,machine learning,IOT,system designing,Service Based,security,Network Security Engineer
+4,9,2,yes,yes,poor,poor,hard worker,Management,shell programming,hacking,ethical hacking,Cloud Services,developer,Network Security Engineer
+8,9,3,yes,no,medium,poor,hard worker,Management,information security,networks,testing,BPA,developer,Network Security Engineer
+9,7,2,no,no,poor,excellent,smart worker,Management,hadoop,networks,game development,product development,security,Network Security Engineer
+4,5,9,no,yes,poor,excellent,hard worker,Management,hadoop,IOT,data science,Service Based,testing,Network Security Engineer
+3,5,7,no,yes,poor,excellent,hard worker,Technical,distro making,networks,testing,product development,security,Network Security Engineer
+6,8,3,no,yes,excellent,excellent,hard worker,Management,hadoop,distributed computing,system designing,Product based,developer,Network Security Engineer
+6,4,6,yes,no,poor,poor,smart worker,Technical,app development,parallel computing,ethical hacking,SAaS services,testing,Network Security Engineer
+9,9,8,yes,yes,poor,medium,smart worker,Management,hadoop,Computer Architecture,ethical hacking,Sales and Marketing,system developer,Network Security Engineer
+4,5,1,no,no,poor,medium,hard worker,Technical,hadoop,Computer Architecture,ethical hacking,SAaS services,Business process analyst,Network Security Engineer
+8,7,7,yes,yes,medium,excellent,hard worker,Technical,distro making,Computer Architecture,game development,SAaS services,security,Network Security Engineer
+2,6,2,no,no,excellent,poor,hard worker,Technical,machine learning,hacking,ethical hacking,BPA,developer,Network Security Engineer
+6,1,5,no,no,medium,excellent,smart worker,Management,r programming,programming,game development,Product based,cloud computing,Network Security Engineer
+6,4,8,no,no,excellent,medium,smart worker,Management,app development,networks,system designing,SAaS services,developer,Network Security Engineer
+2,4,9,no,no,excellent,excellent,smart worker,Technical,information security,programming,database security,Product based,system developer,Network Security Engineer
+1,3,6,yes,yes,medium,poor,smart worker,Technical,hadoop,hacking,web technologies,Sales and Marketing,system developer,Network Security Engineer
+9,8,8,yes,yes,poor,medium,hard worker,Management,python,hacking,ethical hacking,BPA,cloud computing,Network Security Engineer
+2,4,4,no,no,poor,excellent,hard worker,Management,machine learning,programming,database security,Service Based,developer,Network Security Engineer
+2,5,6,no,yes,poor,poor,hard worker,Technical,machine learning,programming,data science,Sales and Marketing,Business process analyst,Network Security Engineer
+1,6,8,yes,no,medium,medium,hard worker,Management,app development,hacking,web technologies,SAaS services,developer,Network Security Engineer
+8,5,3,no,yes,excellent,medium,hard worker,Management,full stack,parallel computing,testing,Cloud Services,Business process analyst,Network Security Engineer
+8,4,1,yes,yes,excellent,excellent,smart worker,Management,full stack,Software Engineering,ethical hacking,BPA,cloud computing,Network Security Engineer
+4,2,7,yes,no,poor,poor,hard worker,Technical,full stack,distributed computing,database security,SAaS services,testing,Network Security Engineer
+2,2,7,no,yes,medium,medium,hard worker,Technical,hadoop,distributed computing,testing,Sales and Marketing,developer,Network Security Engineer
+6,8,1,yes,yes,excellent,poor,smart worker,Technical,shell programming,Management,web technologies,Sales and Marketing,Business process analyst,Network Security Engineer
+6,3,5,yes,yes,medium,excellent,smart worker,Management,app development,Software Engineering,AWS,Service Based,developer,Network Security Engineer
+6,5,4,yes,no,poor,medium,smart worker,Management,hadoop,data engineering,database security,Sales and Marketing,developer,Network Security Engineer
+1,3,5,yes,yes,poor,poor,smart worker,Technical,distro making,data engineering,testing,BPA,developer,Network Security Engineer
+3,4,3,yes,no,medium,excellent,hard worker,Management,app development,Management,testing,Sales and Marketing,Business process analyst,Network Security Engineer
+1,4,6,no,yes,poor,medium,hard worker,Management,r programming,networks,testing,Sales and Marketing,developer,Network Security Engineer
+6,9,7,no,no,poor,poor,smart worker,Management,r programming,programming,testing,Cloud Services,cloud computing,Network Security Engineer
+5,9,2,no,no,medium,excellent,smart worker,Management,full stack,IOT,game development,Cloud Services,testing,Network Security Engineer
+2,4,9,yes,yes,excellent,poor,hard worker,Management,python,Computer Architecture,database security,Web Services,system developer,Network Security Engineer
+8,4,3,yes,yes,medium,poor,smart worker,Management,hadoop,parallel computing,game development,Sales and Marketing,security,Network Security Engineer
+3,6,3,no,yes,excellent,excellent,hard worker,Technical,python,IOT,data science,product development,security,Network Security Engineer
+3,1,6,yes,no,excellent,poor,smart worker,Management,shell programming,Computer Architecture,database security,Testing and Maintainance Services,testing,Network Security Engineer
+3,2,2,yes,no,poor,excellent,smart worker,Management,app development,Computer Architecture,web technologies,Service Based,cloud computing,Network Security Engineer
+9,5,2,no,no,medium,poor,hard worker,Management,hadoop,Computer Architecture,game development,Testing and Maintainance Services,testing,Network Security Engineer
+1,2,4,yes,no,medium,poor,hard worker,Technical,full stack,programming,data science,Sales and Marketing,testing,Network Security Engineer
+7,1,7,yes,yes,excellent,poor,smart worker,Technical,r programming,IOT,testing,BPA,security,Network Security Engineer
+2,6,9,yes,yes,excellent,excellent,smart worker,Technical,distro making,Software Engineering,testing,Service Based,testing,Network Security Engineer
+3,9,1,yes,no,poor,medium,smart worker,Technical,app development,Management,web technologies,Testing and Maintainance Services,cloud computing,Network Security Engineer
+7,3,6,no,no,excellent,poor,smart worker,Technical,r programming,distributed computing,data science,Testing and Maintainance Services,testing,Network Security Engineer
+4,6,9,yes,no,medium,poor,hard worker,Management,distro making,data engineering,game development,Testing and Maintainance Services,developer,Network Security Engineer
+4,2,5,no,no,medium,excellent,smart worker,Technical,hadoop,hacking,game development,Cloud Services,developer,Network Security Engineer
+8,1,9,yes,yes,medium,poor,hard worker,Technical,shell programming,parallel computing,web technologies,Testing and Maintainance Services,Business process analyst,Network Security Engineer
+5,5,4,no,yes,medium,excellent,smart worker,Technical,shell programming,Software Engineering,database security,Service Based,cloud computing,Network Security Engineer
+1,7,6,yes,yes,excellent,medium,smart worker,Management,hadoop,data engineering,AWS,Web Services,developer,Network Security Engineer
+3,8,9,no,yes,medium,medium,hard worker,Management,information security,Computer Architecture,web technologies,SAaS services,testing,Network Security Engineer
+9,8,7,no,no,excellent,medium,hard worker,Management,machine learning,Software Engineering,game development,Product based,Business process analyst,Network Security Engineer
+6,1,5,yes,no,excellent,medium,smart worker,Management,python,Computer Architecture,web technologies,BPA,system developer,Network Security Engineer
+2,2,9,yes,no,excellent,poor,smart worker,Technical,machine learning,Software Engineering,ethical hacking,Sales and Marketing,testing,Network Security Engineer
+4,7,3,no,yes,medium,poor,smart worker,Technical,machine learning,data engineering,data science,product development,security,Network Security Engineer
+6,5,8,no,no,excellent,medium,hard worker,Technical,information security,programming,game development,Service Based,Business process analyst,Network Security Engineer
+8,1,2,yes,yes,excellent,poor,hard worker,Management,machine learning,Software Engineering,game development,SAaS services,cloud computing,Network Security Engineer
+3,9,1,no,no,excellent,medium,smart worker,Management,app development,Management,web technologies,Product based,system developer,Network Security Engineer
+3,4,1,yes,yes,excellent,excellent,smart worker,Management,shell programming,parallel computing,data science,SAaS services,testing,Network Security Engineer
+7,8,9,no,no,excellent,poor,smart worker,Technical,hadoop,data engineering,data science,Product based,cloud computing,Network Security Engineer
+5,5,7,yes,no,medium,excellent,hard worker,Management,r programming,IOT,testing,Product based,developer,Network Security Engineer
+8,2,2,yes,no,poor,medium,smart worker,Management,app development,Management,testing,Cloud Services,Business process analyst,Network Security Engineer
+6,2,1,yes,yes,excellent,poor,hard worker,Technical,r programming,IOT,ethical hacking,Sales and Marketing,Business process analyst,Network Security Engineer
+7,4,9,no,no,poor,poor,hard worker,Management,app development,hacking,game development,Finance,testing,Network Security Engineer
+1,8,8,yes,yes,poor,poor,smart worker,Technical,app development,Software Engineering,database security,BPA,testing,Network Security Engineer
+7,2,6,yes,no,poor,poor,hard worker,Management,r programming,distributed computing,game development,Finance,system developer,Network Security Engineer
+2,1,2,yes,yes,excellent,excellent,hard worker,Technical,shell programming,Management,web technologies,Web Services,developer,Network Security Engineer
+6,6,6,yes,yes,medium,poor,smart worker,Technical,full stack,parallel computing,testing,Testing and Maintainance Services,testing,Network Security Engineer
+6,5,8,yes,no,excellent,poor,hard worker,Management,r programming,distributed computing,database security,Sales and Marketing,testing,Network Security Engineer
+5,1,7,no,no,excellent,poor,smart worker,Management,python,distributed computing,testing,Testing and Maintainance Services,testing,Network Security Engineer
+4,1,6,no,yes,medium,medium,smart worker,Technical,app development,networks,system designing,Product based,security,Network Security Engineer
+6,3,6,yes,no,excellent,medium,smart worker,Management,python,programming,AWS,SAaS services,Business process analyst,Network Security Engineer
+1,4,9,yes,yes,poor,poor,smart worker,Management,python,IOT,testing,Sales and Marketing,developer,Network Security Engineer
+6,5,7,no,yes,medium,excellent,smart worker,Management,machine learning,hacking,ethical hacking,Finance,cloud computing,Network Security Engineer
+5,9,5,yes,yes,excellent,poor,smart worker,Technical,python,data engineering,data science,Sales and Marketing,system developer,Network Security Engineer
+6,6,4,no,yes,medium,poor,hard worker,Management,information security,distributed computing,ethical hacking,Finance,testing,Network Security Engineer
+1,6,2,no,yes,poor,poor,hard worker,Technical,shell programming,distributed computing,database security,Product based,cloud computing,Network Security Engineer
+8,4,2,no,yes,poor,medium,smart worker,Management,app development,Software Engineering,database security,Cloud Services,security,Network Security Engineer
+5,8,7,no,yes,poor,poor,smart worker,Management,full stack,Management,database security,Web Services,developer,Network Security Engineer
+9,5,9,yes,no,medium,excellent,hard worker,Technical,r programming,networks,data science,Web Services,developer,Network Security Engineer
+5,3,2,yes,no,excellent,medium,smart worker,Technical,full stack,data engineering,testing,Web Services,Business process analyst,Network Security Engineer
+3,1,9,no,yes,poor,medium,smart worker,Technical,information security,programming,system designing,BPA,system developer,Network Security Engineer
+1,2,9,no,yes,excellent,excellent,smart worker,Technical,machine learning,Computer Architecture,game development,Service Based,cloud computing,Network Security Engineer
+8,5,5,no,yes,excellent,excellent,smart worker,Management,machine learning,Management,game development,Web Services,system developer,Network Security Engineer
+3,8,2,no,no,medium,medium,smart worker,Management,hadoop,distributed computing,testing,Sales and Marketing,cloud computing,Network Security Engineer
+6,6,1,yes,no,excellent,poor,smart worker,Management,hadoop,parallel computing,system designing,BPA,testing,Network Security Engineer
+6,8,9,yes,no,poor,excellent,hard worker,Technical,app development,programming,web technologies,Product based,security,Software Developer
+5,6,4,no,yes,medium,poor,hard worker,Technical,full stack,distributed computing,testing,Cloud Services,system developer,Software Developer
+6,1,4,yes,yes,poor,excellent,smart worker,Management,hadoop,distributed computing,system designing,product development,cloud computing,Software Developer
+3,4,1,yes,no,excellent,medium,hard worker,Technical,information security,networks,system designing,SAaS services,security,Software Developer
+5,3,1,yes,no,medium,excellent,hard worker,Technical,r programming,hacking,testing,Service Based,security,Software Developer
+2,7,3,no,no,excellent,poor,hard worker,Technical,r programming,hacking,system designing,BPA,developer,Software Developer
+5,2,8,no,no,medium,medium,smart worker,Technical,information security,Management,AWS,product development,cloud computing,Software Developer
+9,3,3,no,no,excellent,medium,smart worker,Management,full stack,IOT,data science,product development,developer,Software Developer
+1,7,2,yes,yes,excellent,excellent,smart worker,Technical,full stack,hacking,AWS,Service Based,system developer,Software Developer
+3,9,2,yes,no,medium,poor,smart worker,Technical,r programming,Software Engineering,data science,Web Services,developer,Software Developer
+6,3,9,yes,no,excellent,poor,hard worker,Technical,r programming,Software Engineering,system designing,Product based,developer,Software Developer
+9,6,1,no,yes,excellent,excellent,smart worker,Management,machine learning,networks,system designing,Sales and Marketing,developer,Software Developer
+5,8,1,no,no,medium,excellent,hard worker,Technical,information security,Computer Architecture,system designing,Product based,system developer,Software Developer
+3,5,8,yes,yes,poor,medium,hard worker,Technical,information security,data engineering,database security,Sales and Marketing,developer,Software Developer
+1,5,1,no,no,medium,poor,smart worker,Technical,hadoop,hacking,data science,Web Services,developer,Software Developer
+2,6,8,yes,yes,poor,poor,hard worker,Management,distro making,data engineering,data science,Testing and Maintainance Services,testing,Software Developer
+6,3,7,no,yes,excellent,excellent,smart worker,Technical,hadoop,Software Engineering,game development,Finance,security,Software Developer
+3,3,3,no,yes,poor,poor,hard worker,Management,app development,Computer Architecture,web technologies,Testing and Maintainance Services,developer,Software Developer
+4,5,3,yes,yes,excellent,poor,smart worker,Technical,shell programming,distributed computing,web technologies,Finance,developer,Software Developer
+5,6,5,no,yes,medium,excellent,hard worker,Technical,machine learning,distributed computing,web technologies,SAaS services,Business process analyst,Software Developer
+7,6,4,yes,no,poor,poor,smart worker,Technical,python,Computer Architecture,testing,Web Services,testing,Software Developer
+2,9,2,yes,no,poor,excellent,hard worker,Management,shell programming,Computer Architecture,database security,Testing and Maintainance Services,security,Software Developer
+6,5,2,no,yes,medium,medium,smart worker,Technical,machine learning,networks,web technologies,Cloud Services,Business process analyst,Software Developer
+9,6,6,no,yes,poor,poor,smart worker,Technical,r programming,Computer Architecture,game development,SAaS services,system developer,Software Developer
+1,3,1,yes,no,excellent,poor,smart worker,Technical,distro making,hacking,ethical hacking,Sales and Marketing,testing,Software Developer
+2,8,9,yes,no,medium,poor,hard worker,Technical,full stack,programming,testing,Finance,security,Software Developer
+2,5,7,no,yes,poor,medium,hard worker,Technical,app development,Management,game development,product development,system developer,Software Developer
+4,8,1,yes,no,poor,poor,hard worker,Technical,information security,Computer Architecture,database security,Testing and Maintainance Services,security,Software Developer
+1,9,1,yes,yes,medium,medium,smart worker,Technical,r programming,programming,database security,Cloud Services,Business process analyst,Software Developer
+8,5,4,no,no,medium,medium,hard worker,Management,shell programming,Management,game development,Finance,developer,Software Developer
+9,2,2,no,no,excellent,poor,smart worker,Management,hadoop,Computer Architecture,system designing,Testing and Maintainance Services,system developer,Software Developer
+6,3,3,no,yes,medium,medium,hard worker,Management,app development,Computer Architecture,system designing,Finance,cloud computing,Software Developer
+2,2,9,yes,no,medium,excellent,smart worker,Technical,distro making,Computer Architecture,system designing,Cloud Services,testing,Software Developer
+7,1,9,no,yes,excellent,medium,hard worker,Management,hadoop,Software Engineering,AWS,product development,Business process analyst,Software Developer
+9,5,9,no,yes,excellent,excellent,smart worker,Technical,r programming,programming,system designing,Web Services,system developer,Software Developer
+3,1,9,no,no,poor,poor,hard worker,Technical,information security,IOT,web technologies,Product based,security,Software Developer
+7,9,3,yes,no,poor,medium,smart worker,Technical,machine learning,Software Engineering,system designing,Cloud Services,cloud computing,Software Developer
+3,8,3,no,no,medium,medium,hard worker,Technical,machine learning,programming,AWS,SAaS services,testing,Software Developer
+6,9,9,yes,yes,excellent,excellent,hard worker,Technical,shell programming,parallel computing,testing,Web Services,cloud computing,Software Developer
+3,9,6,yes,no,medium,excellent,smart worker,Management,full stack,Management,system designing,Testing and Maintainance Services,security,Software Developer
+7,7,5,yes,no,poor,poor,smart worker,Technical,machine learning,IOT,data science,BPA,system developer,Software Developer
+2,4,7,yes,no,medium,excellent,hard worker,Technical,python,networks,game development,Web Services,cloud computing,Software Developer
+8,9,1,yes,yes,poor,poor,smart worker,Technical,hadoop,parallel computing,system designing,Finance,system developer,Software Developer
+3,5,8,yes,yes,poor,medium,smart worker,Technical,full stack,data engineering,ethical hacking,Web Services,testing,Software Developer
+7,8,4,yes,yes,poor,medium,hard worker,Technical,information security,Management,system designing,Service Based,security,Software Developer
+8,3,4,yes,yes,poor,poor,hard worker,Technical,distro making,Management,database security,Product based,developer,Software Developer
+3,2,5,no,yes,excellent,medium,hard worker,Technical,information security,IOT,game development,Testing and Maintainance Services,cloud computing,Software Developer
+2,4,4,no,no,excellent,medium,smart worker,Management,full stack,data engineering,ethical hacking,Service Based,system developer,Software Developer
+9,8,8,yes,no,medium,poor,smart worker,Management,machine learning,Software Engineering,testing,product development,developer,Software Developer
+5,2,1,no,yes,poor,medium,smart worker,Management,r programming,Management,game development,SAaS services,cloud computing,Software Developer
+2,3,6,yes,yes,medium,poor,smart worker,Technical,information security,Software Engineering,game development,Web Services,security,Software Developer
+9,7,4,no,yes,excellent,excellent,hard worker,Management,python,distributed computing,web technologies,Testing and Maintainance Services,cloud computing,Software Developer
+7,6,6,yes,yes,excellent,excellent,hard worker,Management,app development,programming,system designing,Sales and Marketing,system developer,Software Developer
+1,2,9,yes,yes,poor,poor,smart worker,Technical,distro making,Computer Architecture,AWS,Service Based,developer,Software Developer
+7,3,8,no,no,poor,medium,smart worker,Technical,r programming,IOT,database security,Web Services,developer,Software Developer
+7,9,4,no,yes,poor,excellent,smart worker,Technical,full stack,Computer Architecture,system designing,Product based,developer,Software Developer
+3,3,6,yes,no,medium,poor,smart worker,Technical,shell programming,Management,testing,BPA,developer,Software Developer
+1,1,3,no,no,excellent,medium,hard worker,Management,machine learning,hacking,data science,Service Based,cloud computing,Software Developer
+6,9,3,no,no,medium,medium,hard worker,Management,python,data engineering,system designing,Finance,Business process analyst,Software Developer
+9,7,4,no,no,medium,excellent,hard worker,Technical,distro making,data engineering,database security,Finance,testing,Software Developer
+6,6,4,no,yes,excellent,medium,smart worker,Management,app development,networks,game development,SAaS services,developer,Software Developer
+3,2,3,no,no,poor,medium,hard worker,Management,shell programming,parallel computing,game development,product development,developer,Software Developer
+2,8,8,no,yes,excellent,medium,hard worker,Management,app development,Computer Architecture,game development,product development,system developer,Software Developer
+7,5,6,no,no,medium,medium,hard worker,Management,app development,Software Engineering,game development,BPA,system developer,Software Developer
+5,7,3,yes,yes,poor,excellent,smart worker,Technical,information security,parallel computing,game development,Finance,developer,Software Developer
+1,5,3,yes,no,excellent,medium,smart worker,Technical,full stack,distributed computing,system designing,Testing and Maintainance Services,security,Software Developer
+9,1,5,no,no,medium,poor,smart worker,Management,distro making,Management,system designing,Cloud Services,testing,Software Developer
+3,3,9,no,no,poor,medium,smart worker,Management,full stack,programming,AWS,Testing and Maintainance Services,Business process analyst,Software Developer
+3,4,7,yes,yes,excellent,medium,hard worker,Technical,distro making,Software Engineering,web technologies,Cloud Services,security,Software Developer
+1,4,7,no,yes,excellent,excellent,smart worker,Technical,machine learning,networks,web technologies,SAaS services,system developer,Software Developer
+3,7,7,no,yes,excellent,medium,hard worker,Technical,hadoop,programming,AWS,Cloud Services,system developer,Software Developer
+3,7,8,yes,yes,poor,poor,hard worker,Technical,machine learning,programming,data science,SAaS services,security,Software Developer
+6,1,9,no,no,poor,excellent,smart worker,Management,distro making,programming,game development,Web Services,security,Software Developer
+2,6,8,yes,yes,excellent,poor,smart worker,Management,r programming,distributed computing,AWS,BPA,testing,Software Developer
+2,8,8,no,no,poor,excellent,smart worker,Technical,app development,distributed computing,web technologies,Service Based,security,Software Developer
+3,7,7,yes,no,medium,excellent,smart worker,Technical,python,networks,game development,Finance,Business process analyst,Software Developer
+3,4,9,yes,yes,medium,medium,smart worker,Technical,hadoop,programming,data science,BPA,cloud computing,Software Developer
+5,7,8,no,no,excellent,medium,hard worker,Management,distro making,hacking,game development,Sales and Marketing,security,Software Developer
+8,4,3,yes,yes,poor,excellent,smart worker,Technical,distro making,Software Engineering,game development,Product based,testing,Software Developer
+4,7,7,no,yes,excellent,poor,smart worker,Management,information security,IOT,game development,Cloud Services,testing,Software Developer
+8,5,8,yes,no,excellent,excellent,hard worker,Management,full stack,networks,testing,Finance,cloud computing,Software Developer
+3,3,4,yes,no,poor,poor,smart worker,Technical,r programming,Software Engineering,AWS,Testing and Maintainance Services,security,Software Developer
+6,2,1,yes,no,poor,medium,hard worker,Technical,distro making,Software Engineering,data science,Testing and Maintainance Services,system developer,Software Developer
+3,7,6,no,yes,poor,poor,smart worker,Technical,full stack,programming,ethical hacking,Cloud Services,Business process analyst,Software Developer
+9,9,1,yes,yes,poor,poor,smart worker,Technical,python,networks,web technologies,Web Services,security,Software Developer
+7,1,7,yes,yes,medium,excellent,hard worker,Management,r programming,parallel computing,web technologies,Testing and Maintainance Services,security,Software Developer
+1,3,2,no,no,excellent,excellent,smart worker,Technical,shell programming,data engineering,AWS,Product based,Business process analyst,Software Developer
+3,7,7,yes,no,poor,excellent,hard worker,Technical,full stack,Software Engineering,ethical hacking,Testing and Maintainance Services,testing,Software Developer
+5,4,9,no,yes,medium,poor,hard worker,Management,information security,IOT,AWS,Product based,developer,Software Developer
+7,1,3,yes,yes,medium,medium,hard worker,Management,hadoop,Software Engineering,web technologies,Product based,system developer,Software Developer
+7,1,7,yes,yes,medium,poor,hard worker,Technical,full stack,IOT,system designing,product development,developer,Software Developer
+2,4,4,no,no,medium,poor,hard worker,Technical,machine learning,data engineering,database security,Product based,developer,Software Developer
+6,1,3,yes,no,poor,excellent,smart worker,Management,machine learning,IOT,data science,Sales and Marketing,cloud computing,Software Developer
+8,4,8,no,no,excellent,excellent,hard worker,Management,machine learning,programming,game development,SAaS services,security,Software Developer
+9,7,6,no,yes,excellent,poor,smart worker,Technical,information security,hacking,web technologies,product development,security,Software Developer
+9,8,8,yes,no,medium,poor,smart worker,Management,full stack,programming,AWS,Testing and Maintainance Services,security,Software Developer
+1,6,9,no,no,excellent,excellent,hard worker,Technical,hadoop,Software Engineering,AWS,BPA,security,Software Developer
+3,2,8,yes,no,excellent,medium,hard worker,Management,machine learning,IOT,ethical hacking,BPA,testing,Software Developer
+2,2,3,yes,yes,poor,excellent,smart worker,Management,full stack,Software Engineering,AWS,SAaS services,Business process analyst,Software Developer
+2,4,5,yes,yes,medium,poor,smart worker,Technical,hadoop,programming,AWS,SAaS services,system developer,Software Developer
+6,3,3,no,no,medium,excellent,smart worker,Management,r programming,IOT,game development,Finance,security,Software Engineer
+5,5,7,yes,yes,medium,medium,hard worker,Management,app development,networks,ethical hacking,Cloud Services,security,Software Engineer
+6,3,3,no,yes,medium,excellent,smart worker,Management,full stack,networks,database security,SAaS services,cloud computing,Software Engineer
+8,9,7,yes,no,excellent,excellent,smart worker,Management,machine learning,Software Engineering,system designing,product development,security,Software Engineer
+6,8,6,no,no,medium,medium,smart worker,Management,hadoop,distributed computing,database security,Web Services,system developer,Software Engineer
+1,8,4,yes,yes,poor,poor,hard worker,Technical,r programming,parallel computing,database security,Web Services,system developer,Software Engineer
+1,4,4,no,no,excellent,poor,smart worker,Management,full stack,Software Engineering,ethical hacking,Cloud Services,security,Software Engineer
+5,4,3,no,no,excellent,poor,hard worker,Management,python,programming,game development,BPA,cloud computing,Software Engineer
+3,1,7,yes,no,poor,excellent,hard worker,Management,full stack,parallel computing,data science,SAaS services,cloud computing,Software Engineer
+9,4,6,no,yes,medium,excellent,smart worker,Technical,app development,Management,data science,BPA,testing,Software Engineer
+2,5,1,yes,no,medium,medium,hard worker,Management,machine learning,Computer Architecture,web technologies,Finance,system developer,Software Engineer
+4,4,4,no,yes,medium,poor,smart worker,Technical,python,hacking,system designing,Sales and Marketing,security,Software Engineer
+2,9,7,yes,no,poor,medium,hard worker,Technical,full stack,hacking,testing,BPA,developer,Software Engineer
+4,4,3,no,no,medium,poor,smart worker,Technical,distro making,Management,ethical hacking,Web Services,security,Software Engineer
+8,9,5,yes,no,poor,medium,smart worker,Management,hadoop,Computer Architecture,data science,Service Based,testing,Software Engineer
+6,9,8,yes,no,excellent,poor,smart worker,Management,machine learning,hacking,AWS,Service Based,Business process analyst,Software Engineer
+5,6,6,no,no,poor,medium,hard worker,Management,information security,data engineering,system designing,Testing and Maintainance Services,security,Software Engineer
+1,9,9,yes,no,excellent,poor,hard worker,Technical,machine learning,programming,web technologies,Service Based,cloud computing,Software Engineer
+3,4,6,no,yes,medium,poor,smart worker,Management,distro making,Computer Architecture,system designing,SAaS services,developer,Software Engineer
+1,7,5,no,yes,excellent,medium,hard worker,Management,distro making,distributed computing,database security,Finance,developer,Software Engineer
+5,9,3,no,no,poor,medium,hard worker,Technical,machine learning,parallel computing,testing,Testing and Maintainance Services,testing,Software Engineer
+2,7,4,no,yes,poor,medium,hard worker,Management,hadoop,distributed computing,database security,Web Services,system developer,Software Engineer
+2,8,6,no,yes,excellent,excellent,hard worker,Management,machine learning,data engineering,testing,Product based,developer,Software Engineer
+3,6,1,no,yes,poor,excellent,smart worker,Management,app development,networks,ethical hacking,BPA,system developer,Software Engineer
+8,6,8,no,yes,excellent,medium,hard worker,Management,r programming,Management,system designing,Product based,system developer,Software Engineer
+7,1,2,yes,no,excellent,poor,hard worker,Management,machine learning,programming,ethical hacking,Sales and Marketing,developer,Software Engineer
+6,5,8,yes,yes,medium,medium,smart worker,Management,hadoop,programming,system designing,BPA,cloud computing,Software Engineer
+7,4,7,no,no,medium,poor,hard worker,Management,distro making,distributed computing,game development,Finance,security,Software Engineer
+5,1,8,yes,yes,poor,poor,smart worker,Technical,app development,parallel computing,database security,Testing and Maintainance Services,cloud computing,Software Engineer
+5,2,5,yes,no,poor,excellent,hard worker,Management,app development,Management,game development,Sales and Marketing,system developer,Software Engineer
+1,9,2,yes,no,excellent,excellent,smart worker,Technical,python,Software Engineering,system designing,BPA,cloud computing,Software Engineer
+9,2,1,yes,yes,medium,excellent,smart worker,Management,machine learning,parallel computing,system designing,product development,testing,Software Engineer
+1,4,9,no,no,medium,excellent,smart worker,Management,information security,Computer Architecture,database security,Finance,cloud computing,Software Engineer
+1,8,4,yes,no,poor,poor,smart worker,Technical,machine learning,programming,web technologies,Sales and Marketing,Business process analyst,Software Engineer
+2,3,8,yes,no,excellent,excellent,smart worker,Management,python,Software Engineering,AWS,product development,cloud computing,Software Engineer
+2,6,3,no,yes,medium,excellent,hard worker,Technical,r programming,IOT,web technologies,Sales and Marketing,testing,Software Engineer
+9,7,2,yes,yes,poor,poor,smart worker,Management,full stack,parallel computing,database security,Web Services,security,Software Engineer
+7,9,6,yes,no,medium,medium,smart worker,Management,full stack,distributed computing,data science,Service Based,testing,Software Engineer
+4,5,1,yes,yes,excellent,medium,smart worker,Technical,information security,Software Engineering,system designing,Testing and Maintainance Services,developer,Software Engineer
+8,2,3,yes,yes,excellent,medium,smart worker,Management,app development,distributed computing,game development,Cloud Services,security,Software Engineer
+2,8,9,no,no,medium,medium,hard worker,Management,app development,programming,game development,Web Services,security,Software Engineer
+1,8,1,no,no,medium,poor,smart worker,Technical,python,parallel computing,web technologies,product development,system developer,Software Engineer
+7,5,1,no,yes,medium,excellent,hard worker,Management,distro making,Software Engineering,database security,Testing and Maintainance Services,Business process analyst,Software Engineer
+4,7,8,yes,yes,excellent,poor,smart worker,Technical,r programming,distributed computing,data science,Cloud Services,Business process analyst,Software Engineer
+9,9,4,no,yes,excellent,poor,smart worker,Management,app development,parallel computing,web technologies,Sales and Marketing,security,Software Engineer
+8,4,7,yes,yes,medium,medium,hard worker,Technical,hadoop,parallel computing,web technologies,Web Services,security,Software Engineer
+2,1,1,no,no,medium,excellent,hard worker,Technical,information security,networks,game development,Cloud Services,developer,Software Engineer
+1,5,4,no,yes,excellent,poor,smart worker,Management,python,Computer Architecture,database security,Finance,Business process analyst,Software Engineer
+1,2,4,no,yes,medium,poor,smart worker,Technical,distro making,IOT,system designing,Testing and Maintainance Services,system developer,Software Engineer
+3,7,7,yes,yes,medium,medium,smart worker,Technical,information security,hacking,database security,Sales and Marketing,system developer,Software Engineer
+6,4,3,no,yes,excellent,poor,smart worker,Management,shell programming,Management,AWS,Finance,cloud computing,Software Engineer
+2,7,8,yes,yes,medium,medium,hard worker,Management,distro making,distributed computing,web technologies,Product based,cloud computing,Software Engineer
+1,7,2,yes,no,poor,medium,smart worker,Technical,r programming,Computer Architecture,testing,product development,Business process analyst,Software Engineer
+7,6,2,yes,yes,excellent,medium,hard worker,Management,hadoop,data engineering,ethical hacking,Product based,system developer,Software Engineer
+8,2,8,yes,yes,medium,poor,smart worker,Management,machine learning,distributed computing,database security,Sales and Marketing,cloud computing,Software Engineer
+5,1,9,yes,no,poor,medium,smart worker,Technical,full stack,distributed computing,ethical hacking,Sales and Marketing,Business process analyst,Software Engineer
+8,5,8,no,no,excellent,excellent,smart worker,Technical,machine learning,Computer Architecture,data science,Cloud Services,system developer,Software Engineer
+4,4,5,no,no,excellent,poor,smart worker,Technical,app development,Computer Architecture,AWS,Cloud Services,developer,Software Engineer
+7,3,6,no,yes,medium,medium,hard worker,Technical,shell programming,Computer Architecture,web technologies,Finance,testing,Software Engineer
+8,2,1,yes,no,medium,poor,smart worker,Management,machine learning,networks,data science,Finance,testing,Software Engineer
+6,7,2,no,yes,excellent,excellent,hard worker,Management,information security,programming,web technologies,Testing and Maintainance Services,developer,Software Engineer
+2,8,9,yes,no,medium,poor,smart worker,Technical,shell programming,IOT,data science,Web Services,cloud computing,Software Engineer
+8,9,3,no,no,poor,medium,smart worker,Technical,app development,programming,AWS,Testing and Maintainance Services,cloud computing,Software Engineer
+5,9,4,yes,yes,medium,excellent,smart worker,Management,hadoop,Computer Architecture,web technologies,SAaS services,developer,Software Engineer
+1,9,9,no,no,poor,excellent,hard worker,Management,r programming,parallel computing,AWS,Sales and Marketing,developer,Software Engineer
+6,4,4,no,no,poor,poor,smart worker,Technical,app development,programming,system designing,Product based,security,Software Engineer
+4,4,2,no,no,excellent,poor,hard worker,Management,hadoop,hacking,database security,Product based,developer,Software Engineer
+9,5,2,no,no,poor,poor,hard worker,Technical,distro making,Management,system designing,product development,security,Software Engineer
+9,4,2,no,no,medium,poor,smart worker,Technical,hadoop,Management,game development,Testing and Maintainance Services,system developer,Software Engineer
+8,3,1,no,no,poor,poor,smart worker,Management,information security,Software Engineering,database security,Web Services,security,Software Engineer
+1,1,2,no,no,excellent,poor,hard worker,Management,python,networks,database security,product development,cloud computing,Software Engineer
+1,4,1,no,no,poor,excellent,smart worker,Management,machine learning,data engineering,game development,Finance,developer,Software Engineer
+3,9,9,no,no,excellent,excellent,hard worker,Management,hadoop,hacking,AWS,Product based,testing,Software Engineer
+9,3,6,yes,no,poor,medium,smart worker,Technical,r programming,distributed computing,database security,Sales and Marketing,testing,Software Engineer
+6,7,8,no,yes,excellent,poor,hard worker,Management,information security,hacking,ethical hacking,Product based,security,Software Engineer
+9,7,9,no,yes,medium,excellent,smart worker,Management,information security,distributed computing,ethical hacking,BPA,cloud computing,Software Engineer
+5,9,4,no,yes,excellent,poor,smart worker,Technical,machine learning,parallel computing,system designing,Cloud Services,system developer,Software Engineer
+8,7,2,yes,yes,excellent,excellent,smart worker,Management,python,programming,web technologies,Cloud Services,Business process analyst,Software Engineer
+5,1,8,no,yes,poor,excellent,hard worker,Technical,machine learning,Management,testing,BPA,security,Software Engineer
+3,9,2,no,no,excellent,poor,smart worker,Technical,python,parallel computing,testing,Web Services,developer,Software Engineer
+4,9,1,no,yes,poor,excellent,hard worker,Technical,full stack,Management,database security,Service Based,system developer,Software Engineer
+7,9,8,no,no,poor,medium,smart worker,Technical,r programming,parallel computing,database security,BPA,system developer,Software Engineer
+1,6,5,yes,no,poor,excellent,hard worker,Technical,app development,programming,database security,Web Services,developer,Software Engineer
+3,9,5,no,no,medium,excellent,hard worker,Management,full stack,IOT,testing,SAaS services,developer,Software Engineer
+3,5,9,no,no,poor,medium,smart worker,Management,app development,networks,ethical hacking,Finance,developer,Software Engineer
+7,4,7,no,no,poor,poor,hard worker,Technical,machine learning,IOT,AWS,Finance,cloud computing,Software Engineer
+9,5,8,no,no,excellent,poor,smart worker,Management,python,programming,web technologies,product development,security,Software Engineer
+2,8,6,yes,yes,medium,medium,smart worker,Technical,information security,parallel computing,web technologies,Testing and Maintainance Services,cloud computing,Software Engineer
+8,1,7,yes,no,excellent,excellent,hard worker,Technical,shell programming,IOT,web technologies,Finance,developer,Software Engineer
+7,8,4,no,no,excellent,poor,hard worker,Technical,information security,networks,game development,Finance,Business process analyst,Software Engineer
+9,7,2,no,no,excellent,excellent,smart worker,Technical,r programming,Management,ethical hacking,product development,testing,Software Engineer
+2,6,3,no,no,poor,poor,smart worker,Technical,machine learning,Computer Architecture,database security,Service Based,developer,Software Engineer
+6,6,1,no,yes,medium,excellent,hard worker,Management,full stack,programming,testing,Web Services,cloud computing,Software Engineer
+1,1,2,no,no,poor,excellent,hard worker,Management,distro making,IOT,web technologies,Service Based,Business process analyst,Software Engineer
+5,4,1,no,yes,poor,medium,hard worker,Technical,information security,hacking,ethical hacking,Web Services,Business process analyst,Software Engineer
+2,9,2,no,no,excellent,poor,smart worker,Management,app development,programming,game development,product development,Business process analyst,Software Engineer
+2,3,3,no,yes,poor,medium,hard worker,Management,python,data engineering,data science,Finance,cloud computing,Software Engineer
+9,1,6,no,no,poor,poor,hard worker,Management,python,parallel computing,system designing,Testing and Maintainance Services,system developer,Software Engineer
+6,4,4,yes,no,poor,medium,hard worker,Management,r programming,Computer Architecture,system designing,Product based,Business process analyst,Software Engineer
+6,1,2,no,yes,medium,medium,hard worker,Technical,python,IOT,web technologies,Service Based,testing,Software Engineer
+6,7,1,yes,yes,poor,excellent,smart worker,Technical,distro making,parallel computing,system designing,BPA,testing,Software Quality Assurance (QA) / Testing
+7,2,7,yes,no,excellent,poor,smart worker,Management,app development,Software Engineering,testing,Cloud Services,testing,Software Quality Assurance (QA) / Testing
+9,3,4,no,yes,medium,poor,smart worker,Management,information security,Software Engineering,testing,Web Services,system developer,Software Quality Assurance (QA) / Testing
+1,6,2,no,yes,medium,poor,hard worker,Management,python,networks,data science,Web Services,system developer,Software Quality Assurance (QA) / Testing
+6,6,9,yes,yes,excellent,poor,hard worker,Technical,machine learning,Computer Architecture,data science,Web Services,cloud computing,Software Quality Assurance (QA) / Testing
+6,2,2,yes,no,medium,poor,hard worker,Technical,information security,networks,database security,Service Based,Business process analyst,Software Quality Assurance (QA) / Testing
+4,2,8,no,yes,poor,excellent,hard worker,Technical,machine learning,Software Engineering,AWS,Product based,system developer,Software Quality Assurance (QA) / Testing
+3,3,7,no,yes,medium,medium,hard worker,Management,information security,networks,web technologies,Web Services,Business process analyst,Software Quality Assurance (QA) / Testing
+3,7,6,no,no,excellent,poor,smart worker,Management,app development,Software Engineering,ethical hacking,Testing and Maintainance Services,Business process analyst,Software Quality Assurance (QA) / Testing
+9,7,4,yes,yes,poor,excellent,hard worker,Management,app development,IOT,web technologies,Service Based,testing,Software Quality Assurance (QA) / Testing
+8,6,2,no,no,excellent,excellent,hard worker,Management,shell programming,distributed computing,game development,BPA,system developer,Software Quality Assurance (QA) / Testing
+3,9,1,yes,no,medium,poor,smart worker,Technical,full stack,IOT,ethical hacking,Product based,cloud computing,Software Quality Assurance (QA) / Testing
+7,4,1,no,no,poor,excellent,smart worker,Management,full stack,Management,system designing,Web Services,security,Software Quality Assurance (QA) / Testing
+3,5,4,yes,yes,medium,excellent,smart worker,Technical,information security,programming,ethical hacking,Testing and Maintainance Services,testing,Software Quality Assurance (QA) / Testing
+3,9,7,yes,yes,excellent,poor,hard worker,Technical,information security,IOT,database security,Service Based,developer,Software Quality Assurance (QA) / Testing
+9,4,6,yes,yes,excellent,excellent,hard worker,Technical,shell programming,networks,database security,product development,system developer,Software Quality Assurance (QA) / Testing
+5,9,9,no,yes,poor,medium,smart worker,Technical,app development,Computer Architecture,data science,Cloud Services,developer,Software Quality Assurance (QA) / Testing
+2,8,8,no,no,poor,poor,hard worker,Technical,python,Management,ethical hacking,BPA,developer,Software Quality Assurance (QA) / Testing
+4,2,4,yes,no,poor,medium,hard worker,Technical,python,networks,AWS,Cloud Services,cloud computing,Software Quality Assurance (QA) / Testing
+5,9,1,yes,no,poor,poor,smart worker,Technical,hadoop,hacking,ethical hacking,BPA,testing,Software Quality Assurance (QA) / Testing
+1,9,3,yes,no,excellent,excellent,hard worker,Technical,hadoop,hacking,system designing,SAaS services,Business process analyst,Software Quality Assurance (QA) / Testing
+6,4,3,yes,no,medium,poor,hard worker,Management,full stack,parallel computing,system designing,Cloud Services,cloud computing,Software Quality Assurance (QA) / Testing
+9,7,7,yes,no,excellent,poor,hard worker,Management,r programming,distributed computing,database security,Service Based,developer,Software Quality Assurance (QA) / Testing
+1,6,9,no,no,medium,medium,smart worker,Technical,hadoop,IOT,game development,Service Based,developer,Software Quality Assurance (QA) / Testing
+6,1,5,no,no,poor,poor,smart worker,Technical,r programming,networks,AWS,Web Services,security,Software Quality Assurance (QA) / Testing
+2,9,2,yes,yes,poor,excellent,smart worker,Technical,machine learning,distributed computing,AWS,Service Based,system developer,Software Quality Assurance (QA) / Testing
+9,2,7,yes,yes,poor,medium,smart worker,Management,information security,networks,testing,Finance,system developer,Software Quality Assurance (QA) / Testing
+2,8,4,yes,yes,medium,medium,smart worker,Technical,app development,Software Engineering,game development,BPA,developer,Software Quality Assurance (QA) / Testing
+6,7,4,no,no,medium,medium,smart worker,Technical,hadoop,distributed computing,ethical hacking,Web Services,testing,Software Quality Assurance (QA) / Testing
+1,3,5,no,no,excellent,medium,smart worker,Technical,full stack,data engineering,database security,SAaS services,system developer,Software Quality Assurance (QA) / Testing
+3,5,4,yes,no,medium,excellent,hard worker,Technical,python,IOT,ethical hacking,Cloud Services,testing,Software Quality Assurance (QA) / Testing
+8,9,3,yes,yes,excellent,medium,smart worker,Management,r programming,data engineering,data science,Cloud Services,security,Software Quality Assurance (QA) / Testing
+1,4,1,yes,no,medium,excellent,hard worker,Management,shell programming,programming,web technologies,Testing and Maintainance Services,testing,Software Quality Assurance (QA) / Testing
+3,2,3,yes,yes,medium,poor,hard worker,Technical,app development,networks,testing,Service Based,testing,Software Quality Assurance (QA) / Testing
+2,5,1,no,no,medium,excellent,smart worker,Management,machine learning,networks,game development,BPA,system developer,Software Quality Assurance (QA) / Testing
+1,6,1,no,yes,poor,poor,hard worker,Management,shell programming,distributed computing,web technologies,product development,cloud computing,Software Quality Assurance (QA) / Testing
+3,6,4,no,yes,medium,poor,hard worker,Management,information security,Management,web technologies,Product based,Business process analyst,Software Quality Assurance (QA) / Testing
+2,1,5,yes,no,poor,medium,smart worker,Management,full stack,hacking,data science,Sales and Marketing,cloud computing,Software Quality Assurance (QA) / Testing
+9,5,3,yes,yes,excellent,poor,hard worker,Technical,distro making,networks,data science,BPA,system developer,Software Quality Assurance (QA) / Testing
+3,6,8,no,yes,excellent,poor,smart worker,Technical,full stack,programming,system designing,Testing and Maintainance Services,security,Software Quality Assurance (QA) / Testing
+6,6,1,yes,yes,medium,excellent,hard worker,Management,r programming,Software Engineering,web technologies,BPA,cloud computing,Software Quality Assurance (QA) / Testing
+8,4,5,yes,yes,poor,medium,smart worker,Management,machine learning,parallel computing,game development,SAaS services,Business process analyst,Software Quality Assurance (QA) / Testing
+1,5,1,yes,yes,medium,poor,hard worker,Management,r programming,parallel computing,ethical hacking,Product based,developer,Software Quality Assurance (QA) / Testing
+1,4,3,no,no,excellent,medium,smart worker,Management,distro making,Management,system designing,BPA,testing,Software Quality Assurance (QA) / Testing
+4,3,8,yes,no,excellent,medium,smart worker,Management,python,hacking,data science,BPA,system developer,Software Quality Assurance (QA) / Testing
+8,2,8,no,yes,medium,medium,smart worker,Technical,r programming,distributed computing,AWS,Web Services,cloud computing,Software Quality Assurance (QA) / Testing
+1,9,6,yes,yes,medium,excellent,hard worker,Technical,r programming,programming,web technologies,BPA,security,Software Quality Assurance (QA) / Testing
+7,3,4,no,yes,medium,poor,hard worker,Management,python,IOT,system designing,Testing and Maintainance Services,developer,Software Quality Assurance (QA) / Testing
+7,7,2,yes,no,poor,excellent,smart worker,Technical,distro making,parallel computing,data science,Cloud Services,testing,Software Quality Assurance (QA) / Testing
+7,3,2,no,yes,poor,poor,hard worker,Management,distro making,parallel computing,system designing,Sales and Marketing,cloud computing,Software Quality Assurance (QA) / Testing
+8,8,7,yes,no,poor,medium,smart worker,Management,python,Management,data science,Testing and Maintainance Services,developer,Software Quality Assurance (QA) / Testing
+8,6,8,yes,yes,poor,medium,smart worker,Technical,full stack,distributed computing,ethical hacking,Web Services,system developer,Software Quality Assurance (QA) / Testing
+7,9,4,yes,yes,medium,poor,smart worker,Management,information security,programming,web technologies,BPA,security,Software Quality Assurance (QA) / Testing
+3,3,5,no,no,excellent,excellent,hard worker,Management,python,Software Engineering,testing,SAaS services,system developer,Software Quality Assurance (QA) / Testing
+4,8,9,no,yes,medium,poor,smart worker,Management,shell programming,Computer Architecture,web technologies,SAaS services,system developer,Software Quality Assurance (QA) / Testing
+2,4,2,yes,yes,poor,poor,smart worker,Technical,shell programming,hacking,system designing,Cloud Services,developer,Software Quality Assurance (QA) / Testing
+3,1,5,no,no,poor,medium,hard worker,Technical,machine learning,Computer Architecture,web technologies,Sales and Marketing,system developer,Software Quality Assurance (QA) / Testing
+6,2,7,yes,no,excellent,poor,hard worker,Management,shell programming,programming,game development,product development,developer,Software Quality Assurance (QA) / Testing
+5,5,4,no,no,poor,excellent,hard worker,Technical,python,Management,database security,Sales and Marketing,system developer,Software Quality Assurance (QA) / Testing
+2,6,1,no,no,poor,poor,smart worker,Technical,hadoop,IOT,database security,product development,developer,Software Quality Assurance (QA) / Testing
+7,3,9,no,no,poor,excellent,smart worker,Management,full stack,Computer Architecture,web technologies,product development,cloud computing,Software Quality Assurance (QA) / Testing
+7,5,7,yes,no,medium,excellent,smart worker,Management,r programming,Computer Architecture,database security,Product based,Business process analyst,Software Quality Assurance (QA) / Testing
+8,2,1,yes,no,medium,medium,smart worker,Technical,app development,networks,system designing,Cloud Services,cloud computing,Software Quality Assurance (QA) / Testing
+1,1,2,yes,yes,excellent,poor,smart worker,Management,distro making,distributed computing,data science,product development,developer,Software Quality Assurance (QA) / Testing
+4,8,4,no,yes,poor,poor,hard worker,Management,hadoop,IOT,web technologies,Product based,Business process analyst,Software Quality Assurance (QA) / Testing
+5,8,7,yes,yes,medium,medium,smart worker,Management,machine learning,Software Engineering,data science,SAaS services,Business process analyst,Software Quality Assurance (QA) / Testing
+1,4,6,yes,no,medium,excellent,hard worker,Management,hadoop,Software Engineering,game development,Cloud Services,security,Software Quality Assurance (QA) / Testing
+2,8,7,no,no,poor,poor,hard worker,Management,full stack,IOT,game development,Web Services,developer,Software Quality Assurance (QA) / Testing
+8,6,3,no,no,excellent,poor,smart worker,Management,distro making,Software Engineering,data science,Cloud Services,system developer,Software Quality Assurance (QA) / Testing
+5,1,5,no,no,medium,poor,hard worker,Management,full stack,Management,web technologies,Sales and Marketing,testing,Software Quality Assurance (QA) / Testing
+1,2,3,yes,yes,medium,poor,smart worker,Technical,hadoop,IOT,game development,Sales and Marketing,testing,Software Quality Assurance (QA) / Testing
+6,2,7,no,yes,medium,excellent,hard worker,Technical,information security,Software Engineering,database security,Sales and Marketing,cloud computing,Software Quality Assurance (QA) / Testing
+4,6,1,no,no,poor,excellent,smart worker,Technical,machine learning,Management,AWS,Product based,developer,Software Quality Assurance (QA) / Testing
+6,4,1,yes,no,medium,poor,hard worker,Technical,machine learning,programming,database security,Cloud Services,system developer,Software Quality Assurance (QA) / Testing
+2,1,6,no,yes,poor,medium,smart worker,Technical,machine learning,Software Engineering,testing,Finance,system developer,Software Quality Assurance (QA) / Testing
+9,6,7,yes,no,medium,medium,smart worker,Management,full stack,parallel computing,testing,Cloud Services,security,Software Quality Assurance (QA) / Testing
+1,6,3,yes,yes,excellent,poor,hard worker,Technical,distro making,Software Engineering,database security,Cloud Services,Business process analyst,Software Quality Assurance (QA) / Testing
+5,8,4,yes,no,poor,medium,hard worker,Technical,machine learning,data engineering,ethical hacking,Finance,system developer,Software Quality Assurance (QA) / Testing
+2,6,5,yes,yes,medium,excellent,hard worker,Management,app development,Computer Architecture,ethical hacking,Service Based,security,Software Quality Assurance (QA) / Testing
+2,9,8,yes,yes,medium,excellent,smart worker,Technical,app development,hacking,testing,Product based,system developer,Software Quality Assurance (QA) / Testing
+5,9,1,no,no,excellent,medium,hard worker,Management,shell programming,data engineering,ethical hacking,Product based,cloud computing,Software Quality Assurance (QA) / Testing
+7,7,3,no,yes,excellent,medium,hard worker,Technical,machine learning,data engineering,game development,BPA,testing,Software Quality Assurance (QA) / Testing
+4,4,5,no,no,poor,poor,smart worker,Management,information security,Management,game development,product development,developer,Software Quality Assurance (QA) / Testing
+5,2,6,yes,no,poor,excellent,hard worker,Technical,information security,networks,database security,Service Based,cloud computing,Software Quality Assurance (QA) / Testing
+3,5,6,yes,no,medium,medium,smart worker,Management,app development,networks,data science,Service Based,Business process analyst,Software Quality Assurance (QA) / Testing
+2,8,2,yes,yes,excellent,medium,hard worker,Technical,hadoop,distributed computing,game development,product development,security,Software Quality Assurance (QA) / Testing
+4,7,5,yes,no,poor,medium,smart worker,Management,hadoop,data engineering,web technologies,product development,security,Software Quality Assurance (QA) / Testing
+2,4,6,yes,yes,medium,excellent,hard worker,Management,hadoop,Software Engineering,database security,BPA,security,Software Quality Assurance (QA) / Testing
+7,9,8,no,no,medium,medium,smart worker,Management,app development,networks,system designing,Finance,system developer,Software Quality Assurance (QA) / Testing
+4,9,5,no,yes,medium,medium,smart worker,Management,full stack,IOT,web technologies,Testing and Maintainance Services,cloud computing,Software Quality Assurance (QA) / Testing
+1,7,5,yes,no,poor,excellent,hard worker,Management,machine learning,programming,web technologies,BPA,cloud computing,Software Quality Assurance (QA) / Testing
+5,3,7,yes,no,poor,medium,smart worker,Management,machine learning,Computer Architecture,system designing,Cloud Services,Business process analyst,Software Quality Assurance (QA) / Testing
+9,7,4,yes,yes,poor,excellent,hard worker,Management,full stack,IOT,AWS,product development,system developer,Software Quality Assurance (QA) / Testing
+6,2,7,yes,yes,poor,excellent,hard worker,Management,python,programming,database security,SAaS services,security,Software Quality Assurance (QA) / Testing
+5,8,6,no,no,poor,medium,hard worker,Management,machine learning,Computer Architecture,data science,Service Based,Business process analyst,Software Quality Assurance (QA) / Testing
+9,8,9,no,yes,excellent,poor,smart worker,Technical,python,IOT,game development,Sales and Marketing,testing,Software Quality Assurance (QA) / Testing
+3,7,7,no,no,excellent,poor,hard worker,Management,full stack,Software Engineering,web technologies,Cloud Services,Business process analyst,Software Quality Assurance (QA) / Testing
+3,7,3,no,no,medium,poor,hard worker,Management,python,IOT,testing,Finance,system developer,Software Quality Assurance (QA) / Testing
+6,3,3,yes,no,excellent,medium,hard worker,Technical,distro making,networks,ethical hacking,Testing and Maintainance Services,system developer,Software Quality Assurance (QA) / Testing
+6,9,8,no,yes,medium,excellent,hard worker,Management,machine learning,programming,data science,Service Based,security,Software Quality Assurance (QA) / Testing
+9,6,2,yes,no,poor,excellent,smart worker,Technical,information security,hacking,AWS,Web Services,system developer,Systems Security Administrator
+6,1,2,yes,yes,poor,excellent,hard worker,Management,hadoop,programming,testing,SAaS services,testing,Systems Security Administrator
+8,6,3,yes,yes,medium,medium,hard worker,Management,app development,hacking,database security,Service Based,testing,Systems Security Administrator
+1,2,8,yes,yes,excellent,poor,hard worker,Management,hadoop,Software Engineering,web technologies,Product based,developer,Systems Security Administrator
+5,5,8,yes,yes,medium,medium,hard worker,Management,app development,networks,AWS,Product based,system developer,Systems Security Administrator
+6,4,4,yes,no,excellent,poor,hard worker,Management,full stack,programming,web technologies,product development,security,Systems Security Administrator
+8,8,4,no,no,excellent,poor,smart worker,Technical,distro making,parallel computing,system designing,BPA,system developer,Systems Security Administrator
+1,8,7,no,no,medium,medium,smart worker,Technical,r programming,networks,system designing,Service Based,developer,Systems Security Administrator
+9,8,2,yes,no,poor,poor,hard worker,Technical,app development,distributed computing,AWS,Service Based,cloud computing,Systems Security Administrator
+6,9,9,yes,yes,medium,excellent,smart worker,Management,shell programming,Software Engineering,web technologies,Web Services,Business process analyst,Systems Security Administrator
+7,6,8,yes,yes,poor,medium,hard worker,Management,information security,parallel computing,testing,Cloud Services,testing,Systems Security Administrator
+1,4,3,yes,no,medium,medium,smart worker,Management,app development,parallel computing,testing,Service Based,cloud computing,Systems Security Administrator
+8,8,6,yes,yes,poor,poor,smart worker,Management,r programming,data engineering,data science,Finance,cloud computing,Systems Security Administrator
+4,1,6,no,yes,excellent,poor,hard worker,Management,python,data engineering,testing,BPA,Business process analyst,Systems Security Administrator
+7,4,8,no,no,medium,poor,smart worker,Technical,hadoop,programming,database security,Product based,system developer,Systems Security Administrator
+5,2,3,yes,no,poor,medium,smart worker,Management,full stack,IOT,system designing,Cloud Services,security,Systems Security Administrator
+7,9,2,no,no,poor,poor,smart worker,Management,machine learning,Computer Architecture,data science,BPA,cloud computing,Systems Security Administrator
+6,7,2,yes,no,medium,excellent,hard worker,Management,information security,hacking,web technologies,Cloud Services,testing,Systems Security Administrator
+8,3,2,yes,no,medium,excellent,smart worker,Technical,hadoop,data engineering,data science,Sales and Marketing,cloud computing,Systems Security Administrator
+4,2,9,yes,no,medium,medium,hard worker,Technical,r programming,programming,game development,SAaS services,Business process analyst,Systems Security Administrator
+8,5,7,no,no,medium,poor,hard worker,Technical,information security,hacking,game development,Web Services,system developer,Systems Security Administrator
+4,1,8,yes,no,excellent,medium,smart worker,Technical,app development,Management,game development,Cloud Services,cloud computing,Systems Security Administrator
+2,9,8,yes,no,medium,medium,smart worker,Management,hadoop,Software Engineering,ethical hacking,Web Services,testing,Systems Security Administrator
+9,4,4,no,no,medium,excellent,hard worker,Technical,information security,Software Engineering,game development,product development,developer,Systems Security Administrator
+5,5,8,yes,yes,poor,poor,smart worker,Technical,full stack,networks,database security,Service Based,developer,Systems Security Administrator
+1,6,2,yes,yes,poor,excellent,smart worker,Management,app development,Software Engineering,ethical hacking,Product based,system developer,Systems Security Administrator
+5,9,6,no,yes,excellent,medium,hard worker,Management,app development,networks,system designing,SAaS services,testing,Systems Security Administrator
+9,2,8,no,no,medium,excellent,smart worker,Management,hadoop,networks,database security,Sales and Marketing,security,Systems Security Administrator
+8,1,6,yes,yes,excellent,medium,hard worker,Management,r programming,hacking,system designing,Finance,Business process analyst,Systems Security Administrator
+3,4,1,yes,no,medium,excellent,smart worker,Technical,information security,parallel computing,testing,Sales and Marketing,developer,Systems Security Administrator
+7,3,1,yes,no,excellent,excellent,smart worker,Technical,hadoop,hacking,system designing,Sales and Marketing,testing,Systems Security Administrator
+3,1,2,yes,no,medium,poor,smart worker,Technical,app development,IOT,system designing,product development,cloud computing,Systems Security Administrator
+7,9,9,no,no,medium,poor,smart worker,Technical,r programming,programming,data science,Finance,developer,Systems Security Administrator
+4,8,9,no,no,excellent,poor,hard worker,Management,full stack,distributed computing,game development,Web Services,developer,Systems Security Administrator
+4,3,3,no,yes,medium,medium,hard worker,Technical,app development,data engineering,testing,product development,security,Systems Security Administrator
+8,6,5,no,yes,excellent,excellent,hard worker,Management,python,Software Engineering,testing,product development,testing,Systems Security Administrator
+9,6,2,no,no,poor,poor,hard worker,Technical,python,Computer Architecture,data science,Testing and Maintainance Services,Business process analyst,Systems Security Administrator
+7,4,9,yes,no,medium,poor,hard worker,Management,distro making,parallel computing,system designing,Product based,security,Systems Security Administrator
+4,6,1,yes,no,excellent,medium,smart worker,Management,information security,Software Engineering,game development,Testing and Maintainance Services,Business process analyst,Systems Security Administrator
+2,2,5,no,no,medium,excellent,hard worker,Technical,hadoop,programming,ethical hacking,Sales and Marketing,system developer,Systems Security Administrator
+4,8,9,no,no,poor,poor,hard worker,Technical,machine learning,networks,ethical hacking,Service Based,cloud computing,Systems Security Administrator
+5,1,9,no,no,excellent,excellent,hard worker,Management,app development,Software Engineering,ethical hacking,Product based,security,Systems Security Administrator
+5,7,4,no,no,medium,medium,hard worker,Technical,full stack,IOT,system designing,Testing and Maintainance Services,cloud computing,Systems Security Administrator
+3,4,6,yes,no,medium,medium,smart worker,Management,machine learning,programming,game development,SAaS services,developer,Systems Security Administrator
+2,7,8,no,no,poor,excellent,hard worker,Management,information security,parallel computing,web technologies,Service Based,Business process analyst,Systems Security Administrator
+8,3,2,no,yes,medium,poor,hard worker,Technical,full stack,distributed computing,ethical hacking,SAaS services,system developer,Systems Security Administrator
+8,2,6,yes,no,medium,excellent,smart worker,Technical,app development,hacking,database security,Cloud Services,testing,Systems Security Administrator
+3,3,4,no,yes,excellent,excellent,hard worker,Management,shell programming,programming,ethical hacking,BPA,developer,Systems Security Administrator
+2,7,9,no,yes,medium,poor,smart worker,Management,python,data engineering,data science,SAaS services,security,Systems Security Administrator
+3,6,3,no,yes,excellent,medium,smart worker,Technical,distro making,Management,database security,Product based,security,Systems Security Administrator
+7,8,8,yes,yes,excellent,excellent,smart worker,Management,full stack,data engineering,testing,product development,developer,Systems Security Administrator
+1,9,9,yes,yes,excellent,poor,smart worker,Technical,app development,Software Engineering,AWS,SAaS services,developer,Systems Security Administrator
+7,5,6,no,no,poor,poor,smart worker,Management,full stack,networks,ethical hacking,Service Based,testing,Systems Security Administrator
+4,2,1,no,no,excellent,poor,hard worker,Technical,app development,distributed computing,database security,Sales and Marketing,security,Systems Security Administrator
+5,2,9,no,yes,medium,medium,smart worker,Management,r programming,networks,testing,Service Based,security,Systems Security Administrator
+6,5,7,yes,yes,poor,medium,hard worker,Technical,hadoop,networks,database security,Testing and Maintainance Services,testing,Systems Security Administrator
+1,4,6,yes,no,excellent,excellent,hard worker,Technical,app development,Computer Architecture,testing,Sales and Marketing,Business process analyst,Systems Security Administrator
+7,6,6,no,no,excellent,excellent,smart worker,Management,full stack,networks,data science,Finance,testing,Systems Security Administrator
+8,2,2,yes,yes,medium,medium,smart worker,Management,shell programming,distributed computing,game development,Product based,system developer,Systems Security Administrator
+1,2,9,no,yes,medium,excellent,hard worker,Management,distro making,distributed computing,web technologies,Cloud Services,testing,Systems Security Administrator
+5,5,2,no,yes,poor,medium,smart worker,Management,shell programming,Computer Architecture,data science,Testing and Maintainance Services,developer,Systems Security Administrator
+2,7,5,yes,yes,poor,excellent,smart worker,Technical,app development,IOT,game development,Sales and Marketing,security,Systems Security Administrator
+6,7,3,yes,no,excellent,poor,smart worker,Technical,full stack,IOT,system designing,product development,Business process analyst,Systems Security Administrator
+6,1,6,yes,yes,poor,excellent,smart worker,Technical,python,data engineering,AWS,Cloud Services,system developer,Systems Security Administrator
+5,2,2,yes,yes,excellent,excellent,hard worker,Technical,python,Software Engineering,data science,Finance,Business process analyst,Systems Security Administrator
+4,6,1,no,yes,medium,poor,hard worker,Technical,distro making,distributed computing,system designing,SAaS services,cloud computing,Systems Security Administrator
+2,9,2,yes,yes,excellent,excellent,smart worker,Management,hadoop,Computer Architecture,AWS,Service Based,testing,Systems Security Administrator
+6,7,2,yes,yes,poor,medium,smart worker,Management,machine learning,parallel computing,ethical hacking,Web Services,developer,Systems Security Administrator
+2,3,6,no,no,medium,medium,smart worker,Technical,r programming,Software Engineering,AWS,Finance,developer,Systems Security Administrator
+1,3,5,yes,no,poor,poor,smart worker,Technical,python,data engineering,system designing,Product based,testing,Systems Security Administrator
+2,9,1,yes,yes,excellent,poor,smart worker,Management,shell programming,networks,data science,Web Services,cloud computing,Systems Security Administrator
+3,5,7,yes,no,excellent,medium,hard worker,Technical,distro making,IOT,system designing,Cloud Services,Business process analyst,Systems Security Administrator
+3,2,5,no,no,excellent,poor,hard worker,Management,information security,hacking,data science,Sales and Marketing,Business process analyst,Systems Security Administrator
+2,9,5,yes,no,poor,poor,hard worker,Technical,hadoop,IOT,system designing,product development,system developer,Systems Security Administrator
+4,4,3,yes,yes,excellent,excellent,hard worker,Management,distro making,programming,web technologies,Sales and Marketing,developer,Systems Security Administrator
+3,3,7,yes,no,poor,medium,hard worker,Management,information security,networks,testing,Sales and Marketing,testing,Systems Security Administrator
+1,5,2,no,no,poor,excellent,hard worker,Technical,r programming,data engineering,web technologies,Service Based,security,Systems Security Administrator
+2,6,6,no,no,excellent,excellent,smart worker,Management,full stack,hacking,web technologies,Service Based,system developer,Systems Security Administrator
+8,9,3,no,yes,excellent,poor,smart worker,Management,distro making,Management,web technologies,Service Based,security,Systems Security Administrator
+3,3,2,no,yes,medium,medium,smart worker,Management,full stack,networks,AWS,Service Based,Business process analyst,Systems Security Administrator
+8,6,1,no,no,excellent,poor,hard worker,Technical,distro making,parallel computing,database security,Cloud Services,Business process analyst,Systems Security Administrator
+5,6,3,no,yes,poor,excellent,smart worker,Management,information security,hacking,game development,Cloud Services,testing,Systems Security Administrator
+2,6,4,yes,no,excellent,medium,hard worker,Technical,distro making,Computer Architecture,game development,BPA,testing,Systems Security Administrator
+5,8,6,yes,yes,poor,medium,hard worker,Technical,information security,Software Engineering,web technologies,Finance,Business process analyst,Systems Security Administrator
+1,2,4,no,no,medium,medium,hard worker,Technical,hadoop,IOT,AWS,Service Based,cloud computing,Systems Security Administrator
+2,1,5,no,yes,medium,excellent,hard worker,Technical,distro making,Computer Architecture,ethical hacking,Testing and Maintainance Services,testing,Systems Security Administrator
+8,4,6,yes,no,medium,poor,hard worker,Management,full stack,Software Engineering,ethical hacking,Service Based,cloud computing,Systems Security Administrator
+6,5,2,yes,yes,poor,medium,hard worker,Technical,hadoop,IOT,data science,SAaS services,security,Systems Security Administrator
+3,8,2,yes,no,excellent,medium,smart worker,Management,shell programming,parallel computing,database security,Cloud Services,security,Systems Security Administrator
+4,2,1,no,yes,poor,excellent,smart worker,Management,r programming,distributed computing,ethical hacking,Finance,system developer,Systems Security Administrator
+2,6,7,yes,no,excellent,medium,smart worker,Technical,r programming,distributed computing,system designing,Service Based,security,Systems Security Administrator
+9,7,7,no,yes,excellent,medium,hard worker,Management,machine learning,IOT,data science,Cloud Services,security,Systems Security Administrator
+8,3,6,no,no,medium,medium,smart worker,Management,shell programming,Computer Architecture,testing,Cloud Services,developer,Systems Security Administrator
+3,4,2,no,no,poor,medium,hard worker,Technical,hadoop,Computer Architecture,web technologies,Web Services,Business process analyst,Systems Security Administrator
+1,6,5,yes,no,excellent,excellent,smart worker,Management,distro making,Computer Architecture,data science,Web Services,cloud computing,Systems Security Administrator
+4,6,7,yes,no,poor,poor,hard worker,Technical,distro making,hacking,database security,Sales and Marketing,Business process analyst,Systems Security Administrator
+1,2,9,no,no,poor,medium,hard worker,Technical,machine learning,IOT,AWS,Finance,developer,Systems Security Administrator
+3,2,2,no,yes,medium,excellent,smart worker,Technical,app development,IOT,database security,Product based,Business process analyst,Systems Security Administrator
+5,2,7,yes,yes,poor,medium,hard worker,Technical,information security,networks,game development,Testing and Maintainance Services,system developer,Systems Security Administrator
+1,3,6,yes,yes,poor,medium,hard worker,Management,information security,IOT,testing,Sales and Marketing,Business process analyst,Systems Security Administrator
+7,2,6,no,no,excellent,medium,smart worker,Technical,shell programming,IOT,web technologies,Web Services,system developer,Technical Support
+4,8,5,yes,yes,medium,poor,hard worker,Technical,hadoop,Computer Architecture,AWS,SAaS services,system developer,Technical Support
+1,6,9,no,yes,poor,excellent,hard worker,Technical,shell programming,parallel computing,ethical hacking,product development,security,Technical Support
+5,1,7,yes,no,poor,medium,smart worker,Management,app development,hacking,game development,Web Services,security,Technical Support
+7,2,4,yes,yes,excellent,medium,smart worker,Management,shell programming,IOT,web technologies,Testing and Maintainance Services,testing,Technical Support
+2,8,6,no,yes,poor,medium,hard worker,Management,distro making,parallel computing,database security,Cloud Services,security,Technical Support
+2,7,9,yes,no,poor,medium,hard worker,Technical,shell programming,data engineering,game development,BPA,testing,Technical Support
+3,7,3,no,no,poor,excellent,smart worker,Technical,distro making,Computer Architecture,AWS,Web Services,security,Technical Support
+9,3,3,yes,yes,medium,poor,hard worker,Management,distro making,Software Engineering,system designing,BPA,Business process analyst,Technical Support
+5,9,2,yes,yes,poor,poor,hard worker,Management,shell programming,IOT,game development,Cloud Services,developer,Technical Support
+5,3,6,no,no,excellent,medium,hard worker,Management,distro making,hacking,system designing,Service Based,Business process analyst,Technical Support
+2,7,1,yes,yes,medium,poor,hard worker,Technical,information security,IOT,AWS,Finance,developer,Technical Support
+9,1,5,no,no,excellent,medium,smart worker,Technical,information security,networks,web technologies,Sales and Marketing,cloud computing,Technical Support
+7,3,1,yes,no,excellent,excellent,smart worker,Management,distro making,hacking,data science,product development,testing,Technical Support
+9,6,7,yes,yes,poor,medium,smart worker,Technical,app development,data engineering,ethical hacking,product development,security,Technical Support
+4,1,3,yes,no,excellent,poor,smart worker,Management,shell programming,data engineering,data science,Sales and Marketing,security,Technical Support
+7,3,4,no,yes,poor,excellent,hard worker,Technical,information security,IOT,testing,BPA,security,Technical Support
+3,6,4,yes,yes,medium,medium,smart worker,Management,python,IOT,web technologies,Product based,system developer,Technical Support
+4,4,8,no,no,medium,medium,smart worker,Technical,r programming,Software Engineering,ethical hacking,Finance,system developer,Technical Support
+2,4,1,no,yes,medium,poor,smart worker,Management,python,distributed computing,database security,Web Services,security,Technical Support
+8,7,8,no,no,medium,excellent,smart worker,Management,machine learning,Computer Architecture,data science,Service Based,security,Technical Support
+4,5,7,yes,yes,excellent,medium,hard worker,Management,machine learning,distributed computing,web technologies,product development,testing,Technical Support
+7,7,2,yes,no,medium,poor,smart worker,Management,shell programming,distributed computing,web technologies,SAaS services,developer,Technical Support
+1,3,2,no,no,poor,medium,smart worker,Management,full stack,Software Engineering,testing,Service Based,cloud computing,Technical Support
+1,7,5,yes,yes,excellent,poor,smart worker,Management,distro making,IOT,AWS,Cloud Services,cloud computing,Technical Support
+3,9,2,no,no,excellent,medium,smart worker,Management,full stack,data engineering,database security,SAaS services,cloud computing,Technical Support
+9,7,8,no,no,medium,medium,smart worker,Management,shell programming,Management,testing,Finance,Business process analyst,Technical Support
+2,1,7,no,yes,excellent,medium,smart worker,Technical,full stack,programming,game development,SAaS services,security,Technical Support
+9,3,5,no,no,medium,poor,hard worker,Management,distro making,Software Engineering,testing,SAaS services,developer,Technical Support
+6,6,3,yes,yes,medium,medium,hard worker,Technical,app development,networks,database security,Sales and Marketing,security,Technical Support
+3,3,8,yes,yes,medium,medium,smart worker,Management,r programming,data engineering,web technologies,Testing and Maintainance Services,testing,Technical Support
+7,4,9,yes,yes,poor,excellent,smart worker,Technical,app development,Computer Architecture,testing,product development,cloud computing,Technical Support
+8,4,3,yes,yes,excellent,poor,smart worker,Technical,distro making,hacking,testing,SAaS services,testing,Technical Support
+5,7,4,no,no,medium,medium,smart worker,Technical,shell programming,programming,database security,BPA,security,Technical Support
+6,1,4,no,yes,medium,medium,hard worker,Management,full stack,IOT,game development,BPA,testing,Technical Support
+5,5,4,yes,no,medium,excellent,hard worker,Technical,app development,Software Engineering,system designing,Cloud Services,cloud computing,Technical Support
+1,8,8,no,yes,poor,poor,hard worker,Management,shell programming,distributed computing,web technologies,SAaS services,Business process analyst,Technical Support
+3,7,2,yes,yes,poor,excellent,hard worker,Technical,full stack,IOT,ethical hacking,Testing and Maintainance Services,testing,Technical Support
+8,9,1,no,no,excellent,poor,smart worker,Technical,full stack,Management,data science,Product based,security,Technical Support
+6,2,9,yes,no,medium,poor,smart worker,Management,python,hacking,AWS,Product based,security,Technical Support
+5,2,2,no,yes,medium,excellent,hard worker,Technical,full stack,Software Engineering,AWS,Cloud Services,Business process analyst,Technical Support
+5,2,5,no,no,poor,medium,hard worker,Technical,app development,networks,web technologies,product development,system developer,Technical Support
+2,9,9,no,no,medium,poor,hard worker,Management,hadoop,hacking,AWS,Service Based,developer,Technical Support
+2,1,4,no,yes,poor,medium,smart worker,Management,machine learning,Management,data science,Web Services,security,Technical Support
+2,7,5,no,no,excellent,poor,smart worker,Technical,information security,IOT,data science,Finance,Business process analyst,Technical Support
+4,6,7,no,no,excellent,poor,smart worker,Management,information security,programming,web technologies,Product based,testing,Technical Support
+7,1,8,no,yes,poor,excellent,smart worker,Technical,hadoop,distributed computing,web technologies,Testing and Maintainance Services,testing,Technical Support
+1,2,4,yes,yes,medium,poor,smart worker,Technical,information security,distributed computing,data science,Sales and Marketing,developer,Technical Support
+5,4,6,no,yes,excellent,excellent,smart worker,Management,shell programming,networks,web technologies,Web Services,cloud computing,Technical Support
+7,5,2,no,yes,medium,poor,smart worker,Technical,distro making,distributed computing,database security,BPA,Business process analyst,Technical Support
+6,1,3,yes,yes,poor,excellent,hard worker,Technical,full stack,Computer Architecture,testing,BPA,system developer,Technical Support
+2,2,4,yes,no,excellent,medium,smart worker,Technical,full stack,programming,testing,Service Based,Business process analyst,Technical Support
+5,5,2,no,no,medium,excellent,smart worker,Management,distro making,programming,AWS,Web Services,system developer,Technical Support
+1,5,9,no,no,medium,medium,hard worker,Management,python,distributed computing,testing,SAaS services,security,Technical Support
+8,3,3,yes,no,excellent,poor,hard worker,Management,information security,Software Engineering,game development,BPA,Business process analyst,Technical Support
+1,8,6,yes,no,excellent,poor,hard worker,Technical,information security,Software Engineering,ethical hacking,SAaS services,security,Technical Support
+8,8,9,no,no,poor,excellent,smart worker,Management,full stack,distributed computing,system designing,product development,developer,Technical Support
+1,7,4,yes,yes,excellent,poor,hard worker,Technical,shell programming,Software Engineering,database security,Web Services,cloud computing,Technical Support
+8,4,6,yes,yes,poor,excellent,hard worker,Management,full stack,distributed computing,AWS,Service Based,security,Technical Support
+2,7,3,yes,no,poor,poor,smart worker,Management,shell programming,networks,web technologies,Web Services,security,Technical Support
+2,1,6,no,no,medium,poor,hard worker,Management,r programming,data engineering,testing,SAaS services,security,Technical Support
+2,4,6,no,yes,poor,medium,hard worker,Management,distro making,IOT,system designing,Web Services,Business process analyst,Technical Support
+9,1,3,yes,yes,poor,poor,hard worker,Technical,distro making,distributed computing,game development,Testing and Maintainance Services,system developer,Technical Support
+9,9,5,yes,no,poor,medium,hard worker,Technical,r programming,Computer Architecture,system designing,Web Services,security,Technical Support
+6,1,1,no,yes,excellent,poor,smart worker,Technical,r programming,Computer Architecture,game development,Service Based,system developer,Technical Support
+7,4,4,yes,yes,excellent,excellent,hard worker,Technical,full stack,Management,system designing,Finance,testing,Technical Support
+8,9,4,yes,yes,medium,poor,hard worker,Management,machine learning,hacking,system designing,Finance,developer,Technical Support
+1,4,5,yes,no,medium,excellent,smart worker,Technical,full stack,data engineering,ethical hacking,Web Services,cloud computing,Technical Support
+4,6,4,no,yes,poor,poor,hard worker,Technical,app development,Management,game development,Service Based,cloud computing,Technical Support
+9,4,4,no,yes,poor,medium,smart worker,Technical,r programming,data engineering,system designing,Product based,cloud computing,Technical Support
+1,4,5,no,yes,medium,excellent,smart worker,Management,shell programming,parallel computing,game development,Sales and Marketing,developer,Technical Support
+3,5,5,yes,no,medium,excellent,hard worker,Technical,shell programming,networks,game development,Service Based,Business process analyst,Technical Support
+2,3,1,yes,no,excellent,poor,smart worker,Management,r programming,Management,ethical hacking,BPA,cloud computing,Technical Support
+7,7,4,no,no,medium,poor,hard worker,Technical,hadoop,IOT,AWS,Finance,cloud computing,Technical Support
+5,6,1,no,no,medium,excellent,hard worker,Technical,r programming,Computer Architecture,system designing,Cloud Services,developer,Technical Support
+3,3,6,yes,yes,excellent,medium,smart worker,Management,hadoop,Computer Architecture,ethical hacking,Service Based,testing,Technical Support
+4,5,6,no,yes,poor,poor,smart worker,Management,r programming,Computer Architecture,data science,Testing and Maintainance Services,testing,Technical Support
+5,8,8,yes,yes,medium,medium,smart worker,Management,machine learning,distributed computing,system designing,Web Services,security,Technical Support
+6,2,9,yes,yes,poor,medium,hard worker,Management,python,hacking,web technologies,Web Services,security,Technical Support
+2,6,2,no,no,excellent,poor,hard worker,Technical,shell programming,parallel computing,system designing,SAaS services,system developer,Technical Support
+3,1,1,no,no,excellent,poor,hard worker,Management,information security,networks,database security,Finance,testing,Technical Support
+4,5,5,yes,no,poor,poor,smart worker,Technical,app development,IOT,database security,Testing and Maintainance Services,testing,Technical Support
+9,5,7,no,no,medium,excellent,smart worker,Management,full stack,Software Engineering,AWS,Cloud Services,system developer,Technical Support
+5,4,9,yes,yes,poor,excellent,smart worker,Technical,python,data engineering,ethical hacking,Product based,system developer,Technical Support
+5,1,4,no,yes,medium,medium,smart worker,Technical,hadoop,distributed computing,testing,Testing and Maintainance Services,system developer,Technical Support
+9,5,4,yes,no,excellent,medium,smart worker,Technical,shell programming,distributed computing,game development,product development,cloud computing,Technical Support
+4,6,6,no,no,poor,poor,hard worker,Technical,python,Computer Architecture,testing,Product based,cloud computing,Technical Support
+2,4,1,yes,no,poor,poor,hard worker,Management,machine learning,Software Engineering,data science,Sales and Marketing,security,Technical Support
+7,7,3,yes,no,poor,medium,smart worker,Technical,app development,distributed computing,web technologies,Web Services,developer,Technical Support
+5,7,9,no,yes,medium,poor,hard worker,Management,machine learning,data engineering,ethical hacking,Service Based,system developer,Technical Support
+4,8,6,no,no,medium,medium,hard worker,Technical,hadoop,hacking,data science,Finance,security,Technical Support
+2,8,7,yes,no,medium,excellent,smart worker,Management,information security,Computer Architecture,ethical hacking,Testing and Maintainance Services,developer,Technical Support
+4,3,8,no,yes,excellent,excellent,smart worker,Technical,hadoop,parallel computing,AWS,Sales and Marketing,Business process analyst,Technical Support
+8,6,2,yes,no,medium,poor,smart worker,Management,hadoop,parallel computing,ethical hacking,BPA,testing,Technical Support
+3,9,7,no,yes,poor,excellent,smart worker,Technical,r programming,parallel computing,web technologies,product development,developer,Technical Support
+9,2,3,yes,no,medium,poor,hard worker,Management,distro making,distributed computing,testing,Testing and Maintainance Services,testing,Technical Support
+1,3,1,yes,no,medium,medium,smart worker,Technical,hadoop,distributed computing,system designing,Finance,developer,Technical Support
+3,8,3,yes,yes,excellent,medium,smart worker,Management,shell programming,data engineering,database security,Cloud Services,security,Technical Support
+8,6,3,yes,no,excellent,excellent,hard worker,Technical,distro making,parallel computing,web technologies,Testing and Maintainance Services,developer,Technical Support
+6,5,8,no,yes,excellent,excellent,smart worker,Technical,information security,data engineering,testing,product development,developer,Technical Support
+3,4,7,yes,no,poor,medium,hard worker,Management,full stack,distributed computing,testing,BPA,developer,UX Designer
+7,8,9,yes,yes,excellent,excellent,hard worker,Management,shell programming,Computer Architecture,database security,Product based,Business process analyst,UX Designer
+8,8,1,no,no,medium,medium,hard worker,Technical,hadoop,Computer Architecture,database security,Service Based,cloud computing,UX Designer
+8,4,4,no,yes,excellent,poor,smart worker,Management,information security,IOT,testing,Testing and Maintainance Services,security,UX Designer
+5,8,5,yes,no,poor,excellent,smart worker,Management,distro making,data engineering,system designing,Sales and Marketing,security,UX Designer
+6,1,4,no,no,medium,excellent,hard worker,Management,machine learning,networks,data science,Service Based,system developer,UX Designer
+8,5,1,yes,yes,poor,medium,smart worker,Technical,distro making,distributed computing,web technologies,Product based,developer,UX Designer
+7,2,4,yes,no,medium,excellent,hard worker,Management,distro making,distributed computing,game development,Cloud Services,system developer,UX Designer
+5,8,4,yes,yes,poor,poor,hard worker,Technical,r programming,Software Engineering,AWS,Service Based,cloud computing,UX Designer
+1,7,9,yes,yes,medium,medium,smart worker,Technical,information security,data engineering,game development,Web Services,Business process analyst,UX Designer
+9,2,1,no,no,poor,excellent,smart worker,Technical,hadoop,parallel computing,testing,Service Based,Business process analyst,UX Designer
+8,7,1,no,yes,poor,medium,hard worker,Management,information security,programming,database security,Testing and Maintainance Services,Business process analyst,UX Designer
+6,5,7,yes,no,poor,excellent,smart worker,Technical,r programming,Software Engineering,ethical hacking,SAaS services,developer,UX Designer
+1,3,8,yes,no,medium,poor,hard worker,Management,distro making,Software Engineering,data science,SAaS services,system developer,UX Designer
+8,4,9,yes,no,poor,excellent,smart worker,Management,shell programming,programming,game development,Cloud Services,Business process analyst,UX Designer
+1,4,1,yes,no,medium,poor,smart worker,Management,full stack,data engineering,database security,Sales and Marketing,security,UX Designer
+9,6,4,no,no,poor,poor,smart worker,Technical,shell programming,Computer Architecture,ethical hacking,Cloud Services,Business process analyst,UX Designer
+6,5,1,yes,yes,poor,excellent,smart worker,Technical,shell programming,Computer Architecture,web technologies,BPA,security,UX Designer
+1,2,6,no,no,medium,excellent,hard worker,Management,full stack,Computer Architecture,ethical hacking,Cloud Services,system developer,UX Designer
+3,2,6,yes,no,poor,poor,hard worker,Management,full stack,Management,web technologies,Product based,testing,UX Designer
+4,9,5,no,yes,excellent,excellent,smart worker,Management,shell programming,programming,database security,product development,developer,UX Designer
+8,3,7,no,no,excellent,medium,smart worker,Technical,shell programming,data engineering,ethical hacking,Testing and Maintainance Services,system developer,UX Designer
+9,5,1,yes,yes,medium,poor,smart worker,Technical,r programming,data engineering,system designing,Cloud Services,security,UX Designer
+9,8,8,no,yes,excellent,medium,hard worker,Technical,python,programming,AWS,Service Based,cloud computing,UX Designer
+6,7,9,yes,yes,medium,poor,smart worker,Technical,shell programming,programming,game development,Cloud Services,Business process analyst,UX Designer
+3,2,6,yes,yes,excellent,excellent,smart worker,Technical,full stack,parallel computing,testing,Product based,security,UX Designer
+7,7,7,yes,no,medium,medium,hard worker,Management,machine learning,IOT,testing,Web Services,system developer,UX Designer
+5,7,3,yes,yes,medium,poor,smart worker,Management,shell programming,networks,AWS,Product based,developer,UX Designer
+5,5,4,yes,yes,medium,excellent,smart worker,Management,app development,Management,database security,Finance,system developer,UX Designer
+5,8,9,yes,no,excellent,medium,hard worker,Management,machine learning,networks,game development,BPA,cloud computing,UX Designer
+5,5,1,yes,no,poor,poor,hard worker,Management,information security,IOT,system designing,product development,security,UX Designer
+7,8,6,yes,yes,medium,poor,hard worker,Technical,r programming,Computer Architecture,game development,product development,developer,UX Designer
+4,6,4,no,yes,excellent,excellent,smart worker,Technical,shell programming,Computer Architecture,ethical hacking,Cloud Services,security,UX Designer
+1,4,2,yes,no,poor,poor,smart worker,Management,machine learning,networks,web technologies,Web Services,security,UX Designer
+1,2,1,no,yes,excellent,medium,hard worker,Management,shell programming,data engineering,ethical hacking,SAaS services,cloud computing,UX Designer
+3,7,1,no,no,medium,medium,hard worker,Management,machine learning,Management,ethical hacking,BPA,security,UX Designer
+6,7,7,no,no,medium,medium,hard worker,Technical,r programming,IOT,database security,SAaS services,Business process analyst,UX Designer
+2,4,8,no,yes,medium,poor,hard worker,Management,python,hacking,database security,SAaS services,system developer,UX Designer
+3,7,3,yes,yes,medium,excellent,smart worker,Technical,distro making,Software Engineering,database security,product development,testing,UX Designer
+9,3,7,no,yes,excellent,excellent,hard worker,Management,distro making,IOT,testing,Web Services,cloud computing,UX Designer
+4,3,1,yes,yes,medium,medium,hard worker,Management,information security,programming,web technologies,Sales and Marketing,testing,UX Designer
+9,7,7,yes,no,poor,excellent,smart worker,Management,hadoop,distributed computing,AWS,Cloud Services,cloud computing,UX Designer
+8,2,9,yes,yes,excellent,excellent,smart worker,Technical,information security,data engineering,database security,Sales and Marketing,testing,UX Designer
+1,3,4,no,no,poor,excellent,smart worker,Management,hadoop,IOT,AWS,SAaS services,system developer,UX Designer
+8,5,2,yes,no,medium,medium,smart worker,Management,hadoop,Software Engineering,testing,Web Services,system developer,UX Designer
+9,1,4,yes,yes,poor,poor,smart worker,Technical,python,Software Engineering,system designing,Service Based,developer,UX Designer
+2,2,3,yes,no,poor,poor,hard worker,Management,information security,distributed computing,data science,SAaS services,system developer,UX Designer
+6,2,4,no,yes,poor,excellent,hard worker,Management,python,Management,database security,BPA,security,UX Designer
+7,1,4,no,no,excellent,excellent,hard worker,Technical,information security,Computer Architecture,game development,Product based,Business process analyst,UX Designer
+6,4,4,yes,no,medium,poor,hard worker,Management,full stack,Computer Architecture,ethical hacking,SAaS services,cloud computing,UX Designer
+9,8,6,yes,yes,poor,excellent,hard worker,Technical,machine learning,distributed computing,game development,BPA,cloud computing,UX Designer
+2,9,7,yes,no,medium,medium,smart worker,Management,python,Management,game development,BPA,security,UX Designer
+6,8,9,no,yes,medium,medium,smart worker,Management,distro making,networks,AWS,Service Based,system developer,UX Designer
+8,3,5,no,no,excellent,medium,smart worker,Management,full stack,IOT,testing,Testing and Maintainance Services,cloud computing,UX Designer
+9,1,4,no,yes,excellent,medium,hard worker,Technical,full stack,Management,web technologies,Cloud Services,developer,UX Designer
+9,7,8,yes,no,medium,poor,hard worker,Technical,full stack,Software Engineering,ethical hacking,SAaS services,system developer,UX Designer
+1,4,6,no,yes,medium,medium,hard worker,Technical,information security,Software Engineering,web technologies,Finance,Business process analyst,UX Designer
+7,2,7,no,yes,poor,poor,hard worker,Technical,app development,data engineering,AWS,Web Services,system developer,UX Designer
+7,3,9,no,yes,poor,medium,smart worker,Management,shell programming,parallel computing,testing,Web Services,testing,UX Designer
+5,6,4,yes,no,poor,poor,hard worker,Management,python,hacking,system designing,product development,cloud computing,UX Designer
+5,2,2,no,no,excellent,excellent,hard worker,Technical,python,parallel computing,web technologies,Web Services,testing,UX Designer
+6,8,7,yes,yes,medium,medium,hard worker,Technical,information security,programming,database security,Finance,security,UX Designer
+2,8,7,yes,yes,excellent,excellent,smart worker,Management,machine learning,Software Engineering,ethical hacking,Web Services,cloud computing,UX Designer
+8,8,3,yes,yes,poor,excellent,hard worker,Management,shell programming,hacking,system designing,product development,cloud computing,UX Designer
+3,9,7,yes,yes,excellent,excellent,hard worker,Management,hadoop,Computer Architecture,testing,SAaS services,Business process analyst,UX Designer
+9,2,8,no,no,excellent,medium,hard worker,Technical,information security,parallel computing,database security,Finance,developer,UX Designer
+3,9,7,yes,no,medium,medium,hard worker,Management,r programming,Management,system designing,Product based,cloud computing,UX Designer
+8,8,1,yes,yes,excellent,medium,smart worker,Management,shell programming,distributed computing,testing,SAaS services,Business process analyst,UX Designer
+7,7,3,yes,no,poor,poor,smart worker,Management,information security,hacking,data science,BPA,developer,UX Designer
+2,9,3,no,yes,medium,excellent,hard worker,Management,information security,hacking,AWS,Web Services,security,UX Designer
+6,3,8,yes,yes,excellent,poor,smart worker,Technical,shell programming,IOT,web technologies,Cloud Services,developer,UX Designer
+2,9,8,yes,no,poor,medium,hard worker,Technical,r programming,hacking,game development,Web Services,security,UX Designer
+1,4,9,yes,yes,excellent,poor,smart worker,Management,r programming,Computer Architecture,ethical hacking,product development,Business process analyst,UX Designer
+4,1,8,no,no,medium,medium,hard worker,Technical,python,programming,system designing,product development,cloud computing,UX Designer
+2,8,2,no,no,excellent,poor,hard worker,Technical,python,IOT,game development,Sales and Marketing,Business process analyst,UX Designer
+5,2,5,yes,no,excellent,excellent,smart worker,Management,app development,Software Engineering,ethical hacking,BPA,Business process analyst,UX Designer
+5,6,2,no,no,excellent,poor,smart worker,Technical,machine learning,IOT,database security,Sales and Marketing,security,UX Designer
+3,9,8,yes,yes,excellent,medium,smart worker,Technical,app development,programming,game development,BPA,developer,UX Designer
+4,3,5,no,no,medium,poor,smart worker,Technical,app development,distributed computing,testing,Finance,cloud computing,UX Designer
+5,2,2,no,yes,medium,medium,smart worker,Management,full stack,data engineering,database security,Web Services,system developer,UX Designer
+1,5,8,no,yes,excellent,poor,hard worker,Management,app development,parallel computing,system designing,SAaS services,security,UX Designer
+3,7,4,yes,yes,poor,medium,hard worker,Management,python,Computer Architecture,testing,Testing and Maintainance Services,developer,UX Designer
+7,6,4,yes,no,poor,poor,hard worker,Technical,app development,programming,game development,Web Services,security,UX Designer
+7,7,3,yes,no,medium,medium,hard worker,Technical,distro making,data engineering,testing,Finance,testing,UX Designer
+8,5,5,yes,yes,poor,medium,hard worker,Management,full stack,IOT,ethical hacking,Sales and Marketing,cloud computing,UX Designer
+3,1,2,yes,no,medium,excellent,hard worker,Technical,machine learning,distributed computing,ethical hacking,Testing and Maintainance Services,cloud computing,UX Designer
+1,2,2,yes,no,poor,medium,hard worker,Management,r programming,IOT,data science,Product based,Business process analyst,UX Designer
+1,6,5,no,yes,poor,medium,smart worker,Management,shell programming,Computer Architecture,game development,Finance,developer,UX Designer
+9,4,3,no,no,medium,poor,hard worker,Technical,hadoop,hacking,system designing,Finance,Business process analyst,UX Designer
+1,7,8,no,yes,poor,excellent,smart worker,Technical,app development,Management,database security,BPA,developer,UX Designer
+9,2,9,no,yes,excellent,excellent,hard worker,Technical,app development,Computer Architecture,data science,product development,testing,UX Designer
+4,6,6,no,yes,excellent,medium,smart worker,Management,hadoop,networks,database security,product development,Business process analyst,UX Designer
+5,7,5,no,yes,medium,excellent,hard worker,Technical,python,data engineering,database security,Product based,testing,UX Designer
+7,1,5,yes,no,poor,poor,hard worker,Technical,machine learning,networks,ethical hacking,SAaS services,testing,UX Designer
+6,5,1,no,yes,excellent,excellent,hard worker,Technical,hadoop,Software Engineering,web technologies,Web Services,Business process analyst,UX Designer
+7,7,2,yes,yes,medium,excellent,smart worker,Management,python,parallel computing,data science,product development,Business process analyst,UX Designer
+9,2,8,yes,no,excellent,excellent,hard worker,Technical,distro making,parallel computing,system designing,Cloud Services,testing,UX Designer
+7,3,7,no,no,medium,medium,hard worker,Management,python,Computer Architecture,web technologies,Testing and Maintainance Services,system developer,UX Designer
+6,4,9,yes,no,medium,poor,smart worker,Management,machine learning,distributed computing,ethical hacking,Web Services,Business process analyst,UX Designer
+6,4,4,yes,yes,excellent,excellent,hard worker,Management,information security,parallel computing,data science,Sales and Marketing,cloud computing,UX Designer
+8,1,3,no,no,excellent,medium,hard worker,Management,app development,Management,system designing,Testing and Maintainance Services,security,Web Developer
+1,2,3,yes,yes,poor,poor,smart worker,Management,information security,Management,database security,Product based,cloud computing,Web Developer
+1,8,7,no,no,poor,medium,smart worker,Technical,shell programming,Computer Architecture,game development,Cloud Services,Business process analyst,Web Developer
+8,9,1,yes,no,poor,poor,smart worker,Management,hadoop,Computer Architecture,game development,Web Services,developer,Web Developer
+5,5,7,no,yes,excellent,excellent,hard worker,Management,hadoop,parallel computing,data science,product development,cloud computing,Web Developer
+2,1,4,yes,no,poor,excellent,hard worker,Management,shell programming,parallel computing,data science,Sales and Marketing,security,Web Developer
+5,8,9,no,yes,medium,excellent,hard worker,Management,machine learning,Software Engineering,data science,Cloud Services,testing,Web Developer
+6,3,1,yes,no,medium,poor,smart worker,Technical,python,Computer Architecture,web technologies,Web Services,cloud computing,Web Developer
+6,6,6,no,no,poor,poor,hard worker,Management,python,hacking,data science,Product based,security,Web Developer
+6,4,7,no,no,poor,medium,hard worker,Management,full stack,IOT,testing,Web Services,Business process analyst,Web Developer
+3,6,2,no,yes,excellent,poor,hard worker,Technical,python,distributed computing,system designing,BPA,system developer,Web Developer
+8,2,1,yes,yes,excellent,excellent,hard worker,Technical,hadoop,networks,data science,Sales and Marketing,system developer,Web Developer
+6,3,8,yes,no,excellent,medium,hard worker,Technical,information security,data engineering,system designing,Product based,security,Web Developer
+4,6,1,no,no,poor,medium,smart worker,Management,shell programming,data engineering,game development,product development,Business process analyst,Web Developer
+1,2,1,no,yes,medium,poor,hard worker,Management,r programming,Management,database security,Sales and Marketing,cloud computing,Web Developer
+2,3,9,no,yes,medium,excellent,smart worker,Management,shell programming,Software Engineering,game development,Finance,testing,Web Developer
+4,5,8,no,yes,poor,excellent,hard worker,Technical,shell programming,distributed computing,game development,BPA,Business process analyst,Web Developer
+7,6,8,yes,yes,excellent,medium,smart worker,Technical,shell programming,IOT,game development,Service Based,system developer,Web Developer
+2,1,8,no,yes,excellent,excellent,smart worker,Management,shell programming,parallel computing,AWS,BPA,system developer,Web Developer
+6,4,3,no,no,medium,excellent,hard worker,Technical,python,IOT,ethical hacking,Testing and Maintainance Services,developer,Web Developer
+9,6,5,yes,yes,medium,excellent,smart worker,Management,full stack,data engineering,system designing,Web Services,testing,Web Developer
+7,6,4,no,yes,medium,excellent,hard worker,Management,python,Software Engineering,data science,Sales and Marketing,testing,Web Developer
+4,4,9,yes,yes,poor,poor,smart worker,Technical,app development,distributed computing,system designing,SAaS services,developer,Web Developer
+9,5,1,yes,no,medium,excellent,hard worker,Management,distro making,distributed computing,testing,SAaS services,cloud computing,Web Developer
+8,3,9,no,yes,medium,medium,smart worker,Technical,python,hacking,system designing,Web Services,Business process analyst,Web Developer
+4,3,6,no,yes,medium,medium,smart worker,Technical,r programming,Management,testing,Product based,cloud computing,Web Developer
+5,3,3,no,no,excellent,medium,smart worker,Technical,information security,Management,database security,Testing and Maintainance Services,system developer,Web Developer
+4,3,2,yes,yes,medium,excellent,hard worker,Management,r programming,programming,testing,Testing and Maintainance Services,developer,Web Developer
+7,8,5,yes,yes,medium,medium,hard worker,Technical,distro making,distributed computing,testing,SAaS services,developer,Web Developer
+5,9,2,yes,no,medium,poor,smart worker,Management,r programming,data engineering,database security,Finance,system developer,Web Developer
+3,6,5,no,no,excellent,poor,smart worker,Technical,shell programming,Software Engineering,ethical hacking,Cloud Services,developer,Web Developer
+7,9,1,no,yes,medium,poor,smart worker,Management,shell programming,hacking,web technologies,Product based,system developer,Web Developer
+9,5,6,yes,yes,excellent,excellent,hard worker,Technical,full stack,IOT,data science,SAaS services,testing,Web Developer
+5,7,7,no,yes,medium,medium,smart worker,Technical,hadoop,hacking,game development,BPA,cloud computing,Web Developer
+5,8,6,no,no,excellent,medium,hard worker,Management,machine learning,data engineering,data science,Finance,testing,Web Developer
+3,8,7,yes,no,poor,medium,smart worker,Technical,machine learning,distributed computing,game development,Product based,Business process analyst,Web Developer
+5,7,3,no,no,excellent,medium,hard worker,Technical,r programming,hacking,web technologies,SAaS services,developer,Web Developer
+7,3,3,yes,yes,poor,excellent,hard worker,Technical,information security,Management,testing,Sales and Marketing,system developer,Web Developer
+6,7,3,no,yes,excellent,poor,hard worker,Technical,machine learning,hacking,AWS,BPA,security,Web Developer
+3,6,1,yes,yes,medium,medium,hard worker,Management,app development,data engineering,system designing,Sales and Marketing,cloud computing,Web Developer
+3,3,3,no,yes,excellent,medium,hard worker,Management,machine learning,IOT,web technologies,Sales and Marketing,developer,Web Developer
+3,3,5,no,yes,excellent,poor,hard worker,Technical,shell programming,Computer Architecture,web technologies,Web Services,developer,Web Developer
+2,6,1,no,no,poor,poor,smart worker,Technical,shell programming,Computer Architecture,ethical hacking,Product based,testing,Web Developer
+3,1,3,yes,no,poor,medium,hard worker,Management,distro making,Computer Architecture,game development,Sales and Marketing,cloud computing,Web Developer
+5,4,7,no,no,poor,poor,smart worker,Management,full stack,networks,system designing,product development,security,Web Developer
+3,6,3,no,yes,poor,excellent,smart worker,Management,r programming,networks,system designing,Web Services,system developer,Web Developer
+8,5,4,yes,no,poor,medium,smart worker,Management,distro making,Computer Architecture,ethical hacking,Sales and Marketing,developer,Web Developer
+4,9,7,yes,yes,poor,medium,hard worker,Management,hadoop,hacking,testing,Web Services,Business process analyst,Web Developer
+2,3,5,no,yes,excellent,excellent,smart worker,Technical,distro making,data engineering,game development,Web Services,testing,Web Developer
+6,1,9,no,no,excellent,excellent,hard worker,Management,information security,programming,data science,Product based,system developer,Web Developer
+4,7,1,no,yes,medium,medium,hard worker,Technical,full stack,hacking,data science,Service Based,Business process analyst,Web Developer
+3,3,5,yes,yes,poor,medium,smart worker,Technical,full stack,data engineering,AWS,Finance,Business process analyst,Web Developer
+6,8,5,yes,yes,poor,excellent,smart worker,Technical,information security,programming,ethical hacking,Finance,Business process analyst,Web Developer
+7,9,5,no,no,poor,excellent,hard worker,Technical,app development,distributed computing,web technologies,SAaS services,testing,Web Developer
+4,5,9,no,no,excellent,medium,hard worker,Technical,distro making,networks,data science,Product based,Business process analyst,Web Developer
+6,8,3,yes,no,poor,poor,hard worker,Technical,hadoop,networks,ethical hacking,product development,system developer,Web Developer
+5,1,6,no,yes,excellent,medium,smart worker,Management,machine learning,parallel computing,testing,BPA,system developer,Web Developer
+8,9,3,yes,yes,medium,poor,hard worker,Technical,distro making,parallel computing,system designing,Testing and Maintainance Services,testing,Web Developer
+6,7,7,no,no,medium,medium,hard worker,Technical,python,Software Engineering,testing,Cloud Services,cloud computing,Web Developer
+3,3,7,yes,yes,poor,excellent,smart worker,Management,hadoop,data engineering,system designing,BPA,testing,Web Developer
+5,3,9,yes,yes,excellent,excellent,smart worker,Technical,distro making,parallel computing,database security,Cloud Services,cloud computing,Web Developer
+7,1,6,yes,no,excellent,excellent,smart worker,Technical,distro making,data engineering,web technologies,Web Services,Business process analyst,Web Developer
+2,8,5,no,no,medium,medium,hard worker,Technical,r programming,Software Engineering,web technologies,Web Services,testing,Web Developer
+4,2,4,yes,yes,excellent,poor,hard worker,Technical,full stack,data engineering,ethical hacking,Web Services,Business process analyst,Web Developer
+7,7,1,no,yes,medium,medium,hard worker,Technical,python,Software Engineering,AWS,Product based,developer,Web Developer
+2,5,5,no,yes,medium,poor,hard worker,Technical,machine learning,IOT,system designing,Service Based,Business process analyst,Web Developer
+4,9,3,yes,no,excellent,poor,hard worker,Management,information security,data engineering,testing,Product based,system developer,Web Developer
+9,1,2,no,yes,poor,medium,smart worker,Technical,app development,programming,system designing,Service Based,testing,Web Developer
+3,6,3,yes,no,poor,poor,smart worker,Management,machine learning,networks,game development,Finance,developer,Web Developer
+7,8,1,yes,yes,excellent,excellent,hard worker,Technical,distro making,parallel computing,AWS,BPA,system developer,Web Developer
+4,5,9,yes,yes,medium,poor,smart worker,Management,full stack,networks,AWS,Web Services,developer,Web Developer
+2,7,8,yes,no,medium,medium,hard worker,Technical,app development,hacking,AWS,SAaS services,Business process analyst,Web Developer
+4,4,6,yes,yes,poor,poor,smart worker,Management,information security,IOT,system designing,Web Services,Business process analyst,Web Developer
+7,5,4,yes,yes,medium,medium,smart worker,Management,hadoop,Management,web technologies,Sales and Marketing,security,Web Developer
+7,7,8,no,yes,medium,excellent,hard worker,Management,hadoop,IOT,testing,Finance,developer,Web Developer
+6,2,2,no,no,poor,medium,hard worker,Technical,machine learning,distributed computing,AWS,Product based,developer,Web Developer
+8,4,1,yes,yes,poor,poor,hard worker,Technical,machine learning,Management,database security,Cloud Services,developer,Web Developer
+6,4,7,no,yes,medium,medium,smart worker,Technical,distro making,Software Engineering,data science,Service Based,developer,Web Developer
+7,1,1,no,yes,poor,excellent,hard worker,Management,python,Software Engineering,database security,Product based,developer,Web Developer
+8,6,5,no,yes,excellent,medium,smart worker,Management,machine learning,networks,web technologies,Product based,developer,Web Developer
+9,2,8,no,yes,excellent,poor,hard worker,Technical,information security,parallel computing,system designing,Cloud Services,developer,Web Developer
+7,6,8,yes,yes,medium,poor,hard worker,Management,python,Management,AWS,Service Based,system developer,Web Developer
+3,6,9,no,yes,poor,excellent,hard worker,Management,python,networks,testing,Cloud Services,testing,Web Developer
+7,7,8,yes,no,excellent,medium,smart worker,Management,information security,IOT,game development,Service Based,developer,Web Developer
+6,1,1,no,no,medium,excellent,hard worker,Technical,machine learning,Computer Architecture,database security,Cloud Services,developer,Web Developer
+6,7,9,no,yes,excellent,medium,hard worker,Technical,shell programming,hacking,testing,Finance,Business process analyst,Web Developer
+8,8,6,no,no,poor,poor,hard worker,Technical,distro making,networks,game development,Sales and Marketing,system developer,Web Developer
+5,5,6,yes,no,excellent,medium,hard worker,Management,distro making,hacking,web technologies,product development,developer,Web Developer
+1,4,1,yes,no,poor,excellent,hard worker,Technical,machine learning,Software Engineering,AWS,Web Services,developer,Web Developer
+8,6,9,no,no,medium,excellent,hard worker,Management,shell programming,IOT,web technologies,Cloud Services,cloud computing,Web Developer
+2,6,6,yes,no,poor,excellent,smart worker,Management,full stack,IOT,data science,Testing and Maintainance Services,developer,Web Developer
+4,3,9,yes,no,excellent,poor,hard worker,Management,information security,hacking,database security,SAaS services,developer,Web Developer
+9,9,9,yes,yes,poor,excellent,hard worker,Management,full stack,hacking,web technologies,Product based,cloud computing,Web Developer
+5,9,6,no,yes,medium,medium,smart worker,Technical,information security,Management,testing,BPA,testing,Web Developer
+9,3,6,yes,yes,medium,poor,smart worker,Management,app development,Management,ethical hacking,Web Services,security,Web Developer
+7,6,1,yes,no,poor,poor,smart worker,Management,shell programming,Software Engineering,ethical hacking,Testing and Maintainance Services,testing,Web Developer
+6,1,5,no,no,excellent,excellent,hard worker,Management,machine learning,programming,ethical hacking,Testing and Maintainance Services,testing,Web Developer
+5,6,9,yes,yes,poor,poor,hard worker,Technical,distro making,IOT,data science,Cloud Services,system developer,Web Developer
+1,4,7,no,no,poor,excellent,smart worker,Technical,app development,data engineering,game development,SAaS services,developer,Web Developer
+5,2,5,no,yes,excellent,medium,smart worker,Management,information security,Computer Architecture,database security,Sales and Marketing,security,Web Developer
